@@ -6,8 +6,76 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 03 Jan 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #42</title>
+      <link>https://mockmock.github.io/post/no42/</link>
+      <pubDate>Sun, 10 Jan 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no42/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/25020/&#34;&gt;mockmock.dev #42 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「部下育成の教科書」を読み切る &lt;a href=&#34;http://www.amazon.co.jp/dp/B00WFNG4T6&#34;&gt;http://www.amazon.co.jp/dp/B00WFNG4T6&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;→ 読了&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Podcast番組の収録環境を再検討
+
+&lt;ul&gt;
+&lt;li&gt;→検討結果 &lt;a href=&#34;https://www.evernote.com/l/AAL2N5qg0DdPS4sONXV3XNfbjv6WpJmgijA&#34;&gt;https://www.evernote.com/l/AAL2N5qg0DdPS4sONXV3XNfbjv6WpJmgijA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rauchg/slackin&#34;&gt;rauchg/slackin&lt;/a&gt;をつかってmockmock.devのSign upページを作成
+
+&lt;ul&gt;
+&lt;li&gt;→ &lt;a href=&#34;https://mockmock-slackin.herokuapp.com/&#34;&gt;https://mockmock-slackin.herokuapp.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「部下育成の教科書」
+
+&lt;ul&gt;
+&lt;li&gt;部下として今自分はどこに位置するのか意識しながら読めた。後輩指導にも活かせそう。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;bouzuya/cars-counter-wakeup をつくった&lt;/li&gt;
+&lt;li&gt;bouzuya/cars-counter-weight-and-percent をなおした&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TypeScript に慣れてきた&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #41</title>

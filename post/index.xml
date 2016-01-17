@@ -6,8 +6,83 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 10 Jan 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #43</title>
+      <link>https://mockmock.github.io/post/no43/</link>
+      <pubDate>Sun, 17 Jan 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no43/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/25282/&#34;&gt;mockmock.dev #43 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/nayo74&#34;&gt;@nayo74&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自分がやってるPodcast番組のShow notes用WordPress Themeを見つけてきて適用
+
+&lt;ul&gt;
+&lt;li&gt;結局あまり良いのが見つからず、Twenty Sixにした。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://valista.me/&#34;&gt;http://valista.me/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;mockmock.dev のSlackアカウント発行用ページが落ちてたのでHerokuのインスタンスを再起動
+
+&lt;ul&gt;
+&lt;li&gt;ログモニタリング用にPapertrailというツールを導入した&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://papertrailapp.com/&#34;&gt;https://papertrailapp.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;iKnowを使って英単語の勉強を再開した。
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://iknow.jp&#34;&gt;http://iknow.jp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iKnow、久しぶりにつかったけど、依然として使いやすいUIだった。キーボードだけでどんどん問題に解答できるなど&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;nayo74:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;nayo74&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scoob(&lt;a href=&#34;http://scoob.info)のイベント更新&#34;&gt;http://scoob.info)のイベント更新&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;→登録完了。&lt;a href=&#34;http://scoob.info/osaka-color-photo/&#34;&gt;http://scoob.info/osaka-color-photo/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;WPのローカル環境からテストサーバーへ
+
+&lt;ul&gt;
+&lt;li&gt;→ローカルでのバックアップは完了。サーバーに移行中。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;WPの勉強がまだまだ足りない。（わからないこと、やることはリスト化しておこう）&lt;/li&gt;
+&lt;li&gt;何事もやることリストをあげることは大事だと自覚。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #42</title>

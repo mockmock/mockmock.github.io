@@ -47,11 +47,13 @@
 &lt;h3 id=&#34;やったこと-1:8bbacf96a13cd009680f599f8a105d54&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;blog.bouzuya.net の OGP 対応&lt;/p&gt;
+&lt;li&gt;blog.bouzuya.net の OGP 対応&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:8bbacf96a13cd009680f599f8a105d54&#34;&gt;感想&lt;/h3&gt;&lt;/li&gt;
+&lt;h3 id=&#34;感想-1:8bbacf96a13cd009680f599f8a105d54&#34;&gt;感想&lt;/h3&gt;
 
-&lt;li&gt;&lt;p&gt;React の API は複雑過ぎると改めて感じた。&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;React の API は複雑過ぎると改めて感じた。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

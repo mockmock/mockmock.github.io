@@ -6,8 +6,55 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 31 Jan 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #46</title>
+      <link>https://mockmock.github.io/post/no46/</link>
+      <pubDate>Sun, 07 Feb 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no46/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:8bbacf96a13cd009680f599f8a105d54&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/26429/&#34;&gt;mockmock.dev #46 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:8bbacf96a13cd009680f599f8a105d54&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:8bbacf96a13cd009680f599f8a105d54&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:8bbacf96a13cd009680f599f8a105d54&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「プログラマが知るべき97のこと」を読む（24/97完了）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:8bbacf96a13cd009680f599f8a105d54&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;コードレビューは、良くないコードを修正するためだけにやるんじゃない。チーム全員の共通知識とするために、コードを書く上での規律を確立するためにやるという側面もあるんだ、ということを再認識した。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:8bbacf96a13cd009680f599f8a105d54&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:8bbacf96a13cd009680f599f8a105d54&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;blog.bouzuya.net の OGP 対応&lt;/p&gt;
+
+&lt;h3 id=&#34;感想-1:8bbacf96a13cd009680f599f8a105d54&#34;&gt;感想&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;React の API は複雑過ぎると改めて感じた。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #45</title>

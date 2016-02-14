@@ -6,8 +6,63 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 07 Feb 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #47</title>
+      <link>https://mockmock.github.io/post/no47/</link>
+      <pubDate>Sun, 14 Feb 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no47/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/26783/&#34;&gt;mockmock.dev #47 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;mockmock.dev 活動記録ブログのスタイルシート調整
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mockmock.github.io/&#34;&gt;http://mockmock.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;少し読みやすくなった&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「プログラマが知るべき97のこと」を読む（59/97完了）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「バイナリは常に一つ」であるべきだと改めて認識した。どの環境でも同じバイナリを使えるようにすべき。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/virtual-dom-ssr&#34;&gt;bouzuya/virtual-dom-ssr&lt;/a&gt; のリファクタリング&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;リファクタリングでどうなったら良くなっていると言えるのかの基準は分かりづらい。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #46</title>

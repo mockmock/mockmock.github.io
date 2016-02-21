@@ -6,8 +6,59 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 14 Feb 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #48</title>
+      <link>https://mockmock.github.io/post/no48/</link>
+      <pubDate>Sun, 21 Feb 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no48/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:5029de8e715cf107433574b3f4d11a98&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/27120/&#34;&gt;mockmock.dev #48 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:5029de8e715cf107433574b3f4d11a98&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:5029de8e715cf107433574b3f4d11a98&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:5029de8e715cf107433574b3f4d11a98&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;職務経歴書、履歴書の更新&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:5029de8e715cf107433574b3f4d11a98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自分の中で整理ができたので、今の仕事の内容をほかの人に説明しやすくなった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:5029de8e715cf107433574b3f4d11a98&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと:5029de8e715cf107433574b3f4d11a98&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;すごい Haskell たのしく学ぼう ! 写経 6 章&lt;/li&gt;
+&lt;li&gt;bouzuya/vdom-rxjs-ssr を bouzuya/rally-rxjs としてコピー&lt;/li&gt;
+&lt;li&gt;sign-in page を作成中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:5029de8e715cf107433574b3f4d11a98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;bouzuya/vdom-rxjs-ssr が簡単なことを簡単にできない framework になっている。課題が多い。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #47</title>

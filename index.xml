@@ -6,8 +6,71 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 21 Feb 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Mar 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #50</title>
+      <link>https://mockmock.github.io/post/no50/</link>
+      <pubDate>Sun, 06 Mar 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no50/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:60bdc295126cd011151c3bb41af0dcab&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/27917/&#34;&gt;mockmock.dev #50 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:60bdc295126cd011151c3bb41af0dcab&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/blp1526&#34;&gt;@blp1526&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blp1526:60bdc295126cd011151c3bb41af0dcab&#34;&gt;blp1526&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:60bdc295126cd011151c3bb41af0dcab&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fedora23 での開発環境構築&lt;/li&gt;
+&lt;li&gt;『OpenStack入門』の Kindle 本を読み進める
+
+&lt;ul&gt;
+&lt;li&gt;3.2.7 Swift の内部構造まで&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;（雑用）メインのMacBookProが下の件で修理に出さざるを得ないようなので予備のMacのOSアップデートなど
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tobalog.com/2015/10/macbookpro-retina-repair/&#34;&gt;http://tobalog.com/2015/10/macbookpro-retina-repair/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:60bdc295126cd011151c3bb41af0dcab&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;予備Macを引っ張りだすなどでほぼ何もできていないかったので辛い&amp;hellip;&lt;/li&gt;
+&lt;li&gt;OpenStack本は3章でアーキテクチャーの説明に入り面白くなった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:60bdc295126cd011151c3bb41af0dcab&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと:60bdc295126cd011151c3bb41af0dcab&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/b-o-a&#34;&gt;bouzuya/b-o-a&lt;/a&gt; の Unit Test を AVA に置き換え&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/b-o-a&#34;&gt;bouzuya/b-o-a&lt;/a&gt; での Error Handling を検証し、駄目なことが分かった……。&lt;/li&gt;
+&lt;li&gt;RxJS → Bacon.js で Error Handling の問題を回避できないか検討中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:60bdc295126cd011151c3bb41af0dcab&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AVA いい&lt;/li&gt;
+&lt;li&gt;RxJS で Error 時に停止してしまうのを避けられないのがショックだ……&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #48</title>

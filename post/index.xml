@@ -6,8 +6,43 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 06 Mar 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Mar 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #51</title>
+      <link>https://mockmock.github.io/post/no51/</link>
+      <pubDate>Sun, 13 Mar 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no51/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/28532/&#34;&gt;mockmock.dev #51 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/sm0kym0nkey&#34;&gt;@sm0kym0nkey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sm0kym0nkey:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;sm0kym0nkey&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sh0hei/table-flip&#34;&gt;sh0hei/table-flip&lt;/a&gt; の開発&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;とりあえず基本的な部分 (Reflection 周り以外) は実装出来たかも&lt;/li&gt;
+&lt;li&gt;初参加でした、また宜しくお願いします！&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #50</title>

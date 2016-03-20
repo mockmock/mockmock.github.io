@@ -6,8 +6,57 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 13 Mar 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Mar 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #52</title>
+      <link>https://mockmock.github.io/post/no52/</link>
+      <pubDate>Sun, 20 Mar 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no52/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:717a16231aeae6f24edd62cd5758f5de&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/28751/&#34;&gt;mockmock.dev #52 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:717a16231aeae6f24edd62cd5758f5de&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:717a16231aeae6f24edd62cd5758f5de&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:717a16231aeae6f24edd62cd5758f5de&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;プログラマが知るべき97のこと、を読んだ。97個読み終わった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:717a16231aeae6f24edd62cd5758f5de&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;終わった、と思ったら「日本人プログラマによる知っておくべき10のこと」という追加コンテンツがあって、びっくりした。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:717a16231aeae6f24edd62cd5758f5de&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TodoMVC の仕様 (&lt;a href=&#34;https://github.com/tastejs/todomvc/blob/master/app-spec.md&#34;&gt;https://github.com/tastejs/todomvc/blob/master/app-spec.md&lt;/a&gt;) を読んだ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tastejs/todomvc-app-template&#34;&gt;https://github.com/tastejs/todomvc-app-template&lt;/a&gt; を clone して作成中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:717a16231aeae6f24edd62cd5758f5de&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/b-o-a&#34;&gt;bouzuya/b-o-a&lt;/a&gt; の boilerplate code 多い&lt;/li&gt;
+&lt;li&gt;ゼロから環境をつくると大変&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #51</title>

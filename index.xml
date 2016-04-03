@@ -6,8 +6,78 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 27 Mar 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #54</title>
+      <link>https://mockmock.github.io/post/no54/</link>
+      <pubDate>Sun, 03 Apr 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no54/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:3ead3a852fe918916247cee827219e6d&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/29318/&#34;&gt;mockmock.dev #54 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:3ead3a852fe918916247cee827219e6d&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/ouileau&#34;&gt;@ouileau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:3ead3a852fe918916247cee827219e6d&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと:3ead3a852fe918916247cee827219e6d&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;実践ドメイン駆動設計の 4 章を半分ほど読んだ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:3ead3a852fe918916247cee827219e6d&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;アプリケーションサービスの役割がいろいろやっていてこれでいいのか疑問&lt;/li&gt;
+&lt;li&gt;依存関係逆転の原則、分かるような分からないような。&lt;/li&gt;
+&lt;li&gt;ヘキサゴナルアーキテクチャ。良さそう。Cycle.js っぽい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ouileau:3ead3a852fe918916247cee827219e6d&#34;&gt;ouileau&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:3ead3a852fe918916247cee827219e6d&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iPad mini の初期設定完了&lt;/li&gt;
+&lt;li&gt;（予定してないタスクとして）GTDのやり方を友人に解説した。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:3ead3a852fe918916247cee827219e6d&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iTunes U が見やすい。Stanfordの講義を、毎日会社の昼休みに聞けそうな気がしている。&lt;/li&gt;
+&lt;li&gt;（友人曰く）GTDの不明点がはっきりした、視界が開けた、ありがとう。とのこと&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tjnet:3ead3a852fe918916247cee827219e6d&#34;&gt;tjnet&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:3ead3a852fe918916247cee827219e6d&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;詳解Swift 8.2 イニシャライザ&lt;/li&gt;
+&lt;li&gt;必須イニシャライザ、簡易イニシャライザ、失敗のあるイニシャライザ、プロパティオブザーバを学習&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:3ead3a852fe918916247cee827219e6d&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;サンプルやOSSを見ながら、少しづつ実践で覚えていけそう&lt;/li&gt;
+&lt;li&gt;書籍の内容とサポートページのサンプルコードがちょいちょい違う&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #53</title>

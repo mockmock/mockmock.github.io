@@ -6,8 +6,63 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 03 Apr 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 Apr 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #55</title>
+      <link>https://mockmock.github.io/post/no55/</link>
+      <pubDate>Sun, 10 Apr 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no55/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:3412d0358e44a68bdd01397eeaac8387&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/29709/&#34;&gt;mockmock.dev #55 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:3412d0358e44a68bdd01397eeaac8387&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:3412d0358e44a68bdd01397eeaac8387&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと:3412d0358e44a68bdd01397eeaac8387&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「サービス・スタートアップ」を読了
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/B017SMO314&#34;&gt;http://www.amazon.co.jp/dp/B017SMO314&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:3412d0358e44a68bdd01397eeaac8387&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MVP（Minimum Viable Product）よりも先にMVS（Minimum Valuable Service）を作るべきという主張&lt;/li&gt;
+&lt;li&gt;プロダクトを作る前に検証すべきことがあるでしょ、という話だった&lt;/li&gt;
+&lt;li&gt;リーン・スタートアップとは違ったアプローチが学べて勉強になった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:3412d0358e44a68bdd01397eeaac8387&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと-1:3412d0358e44a68bdd01397eeaac8387&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;エリック・エヴァンスのドメイン駆動設計を読んだ ( 4 章まで )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:3412d0358e44a68bdd01397eeaac8387&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;頭が痛い (関係ない)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #54</title>
@@ -850,65 +905,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;ハッカソン開発合宿でもくもくと開発します&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #39</title>
-      <link>https://mockmock.github.io/post/no39/</link>
-      <pubDate>Sun, 20 Dec 2015 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no39/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:9eb058d25c078933b01057febfed0638&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/24197/&#34;&gt;mockmock.dev #39 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:9eb058d25c078933b01057febfed0638&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;やったこと:9eb058d25c078933b01057febfed0638&#34;&gt;やったこと&lt;/h2&gt;
-
-&lt;h3 id=&#34;kadoppe:9eb058d25c078933b01057febfed0638&#34;&gt;kadoppe&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;mockmock.devの活動記録用ブログを&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;で構築&lt;/li&gt;
-&lt;li&gt;上記ブログを&lt;a href=&#34;http://mockmock.github.io/&#34;&gt;log.mockmock.dev&lt;/a&gt;として公開&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;bouzuya:9eb058d25c078933b01057febfed0638&#34;&gt;bouzuya&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.okidata.co.jp/special/tips1/index.html&#34;&gt;http://www.okidata.co.jp/special/tips1/index.html&lt;/a&gt; を読む&lt;/li&gt;
-&lt;li&gt;Software Design を読む&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;感想:9eb058d25c078933b01057febfed0638&#34;&gt;感想&lt;/h2&gt;
-
-&lt;h3 id=&#34;kadoppe-1:9eb058d25c078933b01057febfed0638&#34;&gt;kadoppe&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;久しぶりに何かをつくってアウトプットできてよかった。&lt;/li&gt;
-&lt;li&gt;これからは活動内容をオープンにしていきます。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;bouzuya-1:9eb058d25c078933b01057febfed0638&#34;&gt;bouzuya&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;印刷まわりは難しい。&lt;/li&gt;
-&lt;li&gt;最近、以前書いた Hubot の Qiita 記事のストックが増えていたり、Hubot script に Pull Request がきたりしたのは、きっと Software Design の ChatOps 特集のせいだと思う。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;参考リンク:9eb058d25c078933b01057febfed0638&#34;&gt;参考リンク&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo :: A fast and modern static website engine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

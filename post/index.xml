@@ -6,8 +6,68 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 10 Apr 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #56</title>
+      <link>https://mockmock.github.io/post/no56/</link>
+      <pubDate>Sun, 17 Apr 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no56/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30123/&#34;&gt;mockmock.dev #56 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BlogなどをホスティングしているVPSに mackerel をインストール
+
+&lt;ul&gt;
+&lt;li&gt;mackerelとSlackを連携させて、アラートを通知するように&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;家事手伝い&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;本当は参加できない予定だったので、少しでも作業時間がとれたのはラッキーだった。&lt;/li&gt;
+&lt;li&gt;mackerel 見やすくて便利。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tjnet:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;tjnet&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと-1:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LT資料作った
+
+&lt;ul&gt;
+&lt;li&gt;今週金曜日にしゃべってきます&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;サービス開発はこれから、、&lt;/li&gt;
+&lt;li&gt;いい感じでペースメーカーになってる&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #55</title>
@@ -888,41 +948,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;npm googleapis の品質が低いのと情報が少ないのがつらい&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #40</title>
-      <link>https://mockmock.github.io/post/no40/</link>
-      <pubDate>Sun, 27 Dec 2015 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no40/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:df29f278080b815bf85e499ffc4fe677&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/24433/&#34;&gt;mockmock.dev #40 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:df29f278080b815bf85e499ffc4fe677&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/watambo&#34;&gt;@watambo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;やったこと:df29f278080b815bf85e499ffc4fe677&#34;&gt;やったこと&lt;/h2&gt;
-
-&lt;h3 id=&#34;kadoppe:df29f278080b815bf85e499ffc4fe677&#34;&gt;kadoppe&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ハッカソン開発合宿でもくもくと開発します&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;watambo:df29f278080b815bf85e499ffc4fe677&#34;&gt;watambo&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ハッカソン開発合宿でもくもくと開発します&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

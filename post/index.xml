@@ -6,8 +6,71 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 17 Apr 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 Apr 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #57</title>
+      <link>https://mockmock.github.io/post/no57/</link>
+      <pubDate>Sun, 24 Apr 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no57/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:031ab11de75115754f85a43730de259b&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30473/&#34;&gt;mockmock.dev #57 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:031ab11de75115754f85a43730de259b&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kui&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:031ab11de75115754f85a43730de259b&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと:031ab11de75115754f85a43730de259b&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「リーダーのための「レジリエンス」入門」読了
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/4569821677/&#34;&gt;http://www.amazon.co.jp/dp/4569821677/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Spring Getting Started Guides読み込み
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/authenticating-ldap/&#34;&gt;Getting Started · Authenticating a User with LDAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/register-facebook-app/&#34;&gt;Getting Started · Registering an Application with Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/messaging-redis/&#34;&gt;Getting Started · Messaging with Redis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:031ab11de75115754f85a43730de259b&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;逆境にどう立ち向かって、どう克服したかが大事&lt;/li&gt;
+&lt;li&gt;LDAPの詳しいことについて何もしらないことに気がついた。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kuy:031ab11de75115754f85a43730de259b&#34;&gt;kuy&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと-1:031ab11de75115754f85a43730de259b&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kuy/testdouble-timers&#34;&gt;testdouble-timers&lt;/a&gt;をリリースした&lt;/li&gt;
+&lt;li&gt;フォローアップ記事を半分くらい書いた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:031ab11de75115754f85a43730de259b&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;記事書くスピード遅すぎ&lt;/li&gt;
+&lt;li&gt;testdouble-timersは早速testdouble作者がissue立ててくれて嬉しい&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #56</title>
@@ -904,50 +967,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;TypeScript に慣れてきた&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #41</title>
-      <link>https://mockmock.github.io/post/no41/</link>
-      <pubDate>Sun, 03 Jan 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no41/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/24898/&#34;&gt;mockmock.dev #41 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;やったこと:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;やったこと&lt;/h2&gt;
-
-&lt;h3 id=&#34;bouzuya:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;bouzuya&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Google Analytics のデータを API で取得して、はてなグラフに POST する script をつくる&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;できたこと:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;できたこと&lt;/h2&gt;
-
-&lt;h3 id=&#34;bouzuya-1:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;bouzuya&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Google Analytics API の呼び出し (かなりハマって、いままさに情報を取得できたところ)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;感想:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;感想&lt;/h2&gt;
-
-&lt;h3 id=&#34;bouzuya-2:df35660bfe6d0dfc85234df114dc7d72&#34;&gt;bouzuya&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;npm googleapis の品質が低いのと情報が少ないのがつらい&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

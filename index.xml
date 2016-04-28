@@ -26,6 +26,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kui&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;kadoppe:031ab11de75115754f85a43730de259b&#34;&gt;kadoppe&lt;/h2&gt;
@@ -68,6 +69,22 @@
 &lt;ul&gt;
 &lt;li&gt;記事書くスピード遅すぎ&lt;/li&gt;
 &lt;li&gt;testdouble-timersは早速testdouble作者がissue立ててくれて嬉しい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tjnet:031ab11de75115754f85a43730de259b&#34;&gt;tjnet&lt;/h2&gt;
+
+&lt;h3 id=&#34;できたこと-2:031ab11de75115754f85a43730de259b&#34;&gt;できたこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web DB Press vol 92. フロントエンド先遣隊を読んだ&lt;/li&gt;
+&lt;li&gt;npm , gulp. gruntを使ったweb開発のフローを眺めた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:031ab11de75115754f85a43730de259b&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;チームにフロントエンド得意な人が少ないので、頑張ってキャッチアップしたい。&lt;/li&gt;
+&lt;li&gt;node_moduleの安全性って、みんなどうやってチェックしてるんだろうな&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

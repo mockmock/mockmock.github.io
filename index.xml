@@ -6,8 +6,92 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 24 Apr 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #58</title>
+      <link>https://mockmock.github.io/post/no58/</link>
+      <pubDate>Sun, 01 May 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no58/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:13690686b5c8cd05abe48e75ad882846&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30940/&#34;&gt;mockmock.dev #58 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:13690686b5c8cd05abe48e75ad882846&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:13690686b5c8cd05abe48e75ad882846&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;速習ECMAScript6、読了
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B014MS5XWK/&#34;&gt;https://www.amazon.co.jp/dp/B014MS5XWK/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kindleで売ってる安い本、Webで公開されている記事との差別化が難しい？(Webで事足りちゃう&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;cawa:13690686b5c8cd05abe48e75ad882846&#34;&gt;cawa&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;すでに（何故か）入っていたnode.js v5.0とv0.10系を消して、v4.4.3(LTS)入れる（結局nodebrew消してnvm使った）&lt;/li&gt;
+&lt;li&gt;gulp 入れようとしてgulp-cli について調べ始める（まだよくわかってない）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;今日中にreact-rails目標に引き続き頑張る&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r:13690686b5c8cd05abe48e75ad882846&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;冒頭４章の読了とサンプルの実施&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;設計にいかせるイメージがわかないが、解決方法としてなんとなく頭に入ったので繰り返しやってみる。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tjnet:13690686b5c8cd05abe48e75ad882846&#34;&gt;tjnet&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;詳解Swift Chapter 10 クラス定義のためのプロトコル、読了&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-3:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;プロトコル、ジェネリクス、クロージャ、オプショナルあたりは何回も読み返したい&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #57</title>
@@ -916,74 +1000,6 @@
 &lt;ul&gt;
 &lt;li&gt;WPの勉強がまだまだ足りない。（わからないこと、やることはリスト化しておこう）&lt;/li&gt;
 &lt;li&gt;何事もやることリストをあげることは大事だと自覚。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #42</title>
-      <link>https://mockmock.github.io/post/no42/</link>
-      <pubDate>Sun, 10 Jan 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no42/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/25020/&#34;&gt;mockmock.dev #42 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;「部下育成の教科書」を読み切る &lt;a href=&#34;http://www.amazon.co.jp/dp/B00WFNG4T6&#34;&gt;http://www.amazon.co.jp/dp/B00WFNG4T6&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;→ 読了&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Podcast番組の収録環境を再検討
-
-&lt;ul&gt;
-&lt;li&gt;→検討結果 &lt;a href=&#34;https://www.evernote.com/l/AAL2N5qg0DdPS4sONXV3XNfbjv6WpJmgijA&#34;&gt;https://www.evernote.com/l/AAL2N5qg0DdPS4sONXV3XNfbjv6WpJmgijA&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rauchg/slackin&#34;&gt;rauchg/slackin&lt;/a&gt;をつかってmockmock.devのSign upページを作成
-
-&lt;ul&gt;
-&lt;li&gt;→ &lt;a href=&#34;https://mockmock-slackin.herokuapp.com/&#34;&gt;https://mockmock-slackin.herokuapp.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;「部下育成の教科書」
-
-&lt;ul&gt;
-&lt;li&gt;部下として今自分はどこに位置するのか意識しながら読めた。後輩指導にも活かせそう。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;bouzuya/cars-counter-wakeup をつくった&lt;/li&gt;
-&lt;li&gt;bouzuya/cars-counter-weight-and-percent をなおした&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1:b687962aa8f9f99762f33ad5c7cb76a8&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;TypeScript に慣れてきた&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

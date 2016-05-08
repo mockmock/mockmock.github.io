@@ -6,8 +6,133 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 01 May 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #59</title>
+      <link>https://mockmock.github.io/post/no59/</link>
+      <pubDate>Sun, 08 May 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no59/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/31365/&#34;&gt;mockmock.dev #59 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kuy&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kheiakiyama&#34;&gt;@kheiakiyama&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;nagaishi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「Amazon Web Services クラウドネイティブ・アプリケーション開発技法　一番大切な知識と技術が身につく」を読んだ。(進捗率 50% → 77%）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;最近AWSのサービスが増えすぎていて「うっ」という感じだったけど、この本は複数のサービスを組み合わせたサンプルを豊富に紹介してくれてるので、これからはAWSとなかよくやれそう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;cawa:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;cawa&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kyoto.js #10 参加。発表はチキン丸出しで未遂。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LTレベル高くてビビりました。次回は何か話せるようにしたい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tjnet:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;tjnet&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;線形代数 ベクトルと固有値 (大学入門ドリル)
+
+&lt;ul&gt;
+&lt;li&gt;一通り例題を解き終えたので、あとは定期的に復習をする&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;語り口が平易で、かなり分かりやすいです。書き込んで手を動かしながら進める形式もいいですね。&lt;/li&gt;
+&lt;li&gt;こちらの記事を参考にしながら勉強しています。やり終えたときに見える景色が楽しみ。
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/Keech/items/3e91414656023e1322c2&#34;&gt;文系エンジニアのための機械学習の勉強法 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kuy:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;kuy&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;redux-sagaの記事半分くらい書いた（引き続き書く！）&lt;/li&gt;
+&lt;li&gt;redux-saga+Socket.IOのライブラリで実現したいことを箇条書きにした&lt;/li&gt;
+&lt;li&gt;なんとなくNode.js v6.1.0にアップグレード&lt;/li&gt;
+&lt;li&gt;testdouble-timersのテストをちょっと修正&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-3:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kyoto.JS楽しそう！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kheiakiyama:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;kheiakiyama&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-4:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nodeのサービスで Heroku の Shutdown に対応した&lt;/li&gt;
+&lt;li&gt;Heroku deploy hook に対応した&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-4:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;WebHook 系の動作確認めんどい&lt;/li&gt;
+&lt;li&gt;Heroku に初めてお金払った&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;nagaishi:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;nagaishi&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-5:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swiftのサンプルアプリを途中まで作った&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-5:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Swiftに少し慣れた&lt;/li&gt;
+&lt;li&gt;Xcodeの使い方を思い出した&lt;/li&gt;
+&lt;li&gt;継続しないと忘れそう。。。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #58</title>
@@ -925,81 +1050,6 @@
 &lt;ul&gt;
 &lt;li&gt;MSYS2 で Gauche を使うために環境設定を頑張ったけどダメでした&lt;/li&gt;
 &lt;li&gt;諦めて VM に作業を移したので、早いところ VM の環境設定を済ませたい&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #43</title>
-      <link>https://mockmock.github.io/post/no43/</link>
-      <pubDate>Sun, 17 Jan 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no43/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/25282/&#34;&gt;mockmock.dev #43 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/nayo74&#34;&gt;@nayo74&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;自分がやってるPodcast番組のShow notes用WordPress Themeを見つけてきて適用
-
-&lt;ul&gt;
-&lt;li&gt;結局あまり良いのが見つからず、Twenty Sixにした。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://valista.me/&#34;&gt;http://valista.me/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;mockmock.dev のSlackアカウント発行用ページが落ちてたのでHerokuのインスタンスを再起動
-
-&lt;ul&gt;
-&lt;li&gt;ログモニタリング用にPapertrailというツールを導入した&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://papertrailapp.com/&#34;&gt;https://papertrailapp.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;iKnowを使って英単語の勉強を再開した。
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://iknow.jp&#34;&gt;http://iknow.jp&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;iKnow、久しぶりにつかったけど、依然として使いやすいUIだった。キーボードだけでどんどん問題に解答できるなど&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;nayo74:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;nayo74&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Scoob(&lt;a href=&#34;http://scoob.info)のイベント更新&#34;&gt;http://scoob.info)のイベント更新&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;→登録完了。&lt;a href=&#34;http://scoob.info/osaka-color-photo/&#34;&gt;http://scoob.info/osaka-color-photo/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;WPのローカル環境からテストサーバーへ
-
-&lt;ul&gt;
-&lt;li&gt;→ローカルでのバックアップは完了。サーバーに移行中。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1:39ba7ed5f67e68fc25e2685578709dd3&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;WPの勉強がまだまだ足りない。（わからないこと、やることはリスト化しておこう）&lt;/li&gt;
-&lt;li&gt;何事もやることリストをあげることは大事だと自覚。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

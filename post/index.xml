@@ -6,8 +6,140 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 08 May 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #60</title>
+      <link>https://mockmock.github.io/post/no60/</link>
+      <pubDate>Sun, 15 May 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no60/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:4212df68bca796bd64f1ba0e7943e454&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/31600/&#34;&gt;mockmock.dev #60 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:4212df68bca796bd64f1ba0e7943e454&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/sm0kym0nkey&#34;&gt;@sm0kym0nkey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kuy&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:4212df68bca796bd64f1ba0e7943e454&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「Amazon Web Services クラウドネイティブ・アプリケーション開発技法」を読了
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B01E8EQ264&#34;&gt;https://www.amazon.co.jp/dp/B01E8EQ264&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「SQLアンチパターン」を購入
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oreilly.co.jp/books/9784873115894/&#34;&gt;https://www.oreilly.co.jp/books/9784873115894/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Railsの開発でわからないところがある後輩の相談にのった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;教えることは、自分の学びにもなる。(Rails久々だったので、細かいことはかなり抜けている）&lt;/li&gt;
+&lt;li&gt;インフラエンジニアをアプリケーションエンジニアの境界線はどんどん曖昧になっていく&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;cawa:4212df68bca796bd64f1ba0e7943e454&#34;&gt;cawa&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;今まで書いたコード眺めて、わかってないことリスト作る。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;まだわかってないこと多すぎるので、もう少し自力で頑張ります。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sm0kym0nkey:4212df68bca796bd64f1ba0e7943e454&#34;&gt;sm0kym0nkey&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://esa.io/&#34;&gt;esa.io&lt;/a&gt; の Scala client library の（叩き）実装に着手する。
+
+&lt;ul&gt;
+&lt;li&gt;プロジェクト作成&lt;/li&gt;
+&lt;li&gt;モデル定義の実装&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;API wrapper の authToken 使う場合のパターンを固めたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r:4212df68bca796bd64f1ba0e7943e454&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Threadで処理を幾つか書く&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-3:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;マスターするのにまだ時間がかかりそう&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kuy:4212df68bca796bd64f1ba0e7943e454&#34;&gt;kuy&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-4:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;b-o-aとRxJSの理解&lt;/li&gt;
+&lt;li&gt;redux-devtoolsとredux-devtools-instrumentの仕組みを調べた
+
+&lt;ul&gt;
+&lt;li&gt;Providerは１つだけど、liftedStoreというものを定義してアプリ自体のStoreには影響しないようにしてる&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-4:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;b-o-aの考え方面白い&lt;/li&gt;
+&lt;li&gt;RxJS実戦投入しないと慣れなそう&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:4212df68bca796bd64f1ba0e7943e454&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-5:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/ts-redux-saga-ssr&#34;&gt;https://github.com/bouzuya/ts-redux-saga-ssr&lt;/a&gt; を基にしたアプリケーション (peggie2) を途中までつくった&lt;/li&gt;
+&lt;li&gt;react, react-redux を適用&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-5:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;server-side の reload が結局うまくできず……&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #59</title>
@@ -976,80 +1108,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;メニューに Preferenses を追加してパスの指定などを自由に設定できるようにしたい。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #44</title>
-      <link>https://mockmock.github.io/post/no44/</link>
-      <pubDate>Sun, 24 Jan 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no44/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/25651/&#34;&gt;mockmock.dev #44 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/pjxiao&#34;&gt;@pjxiao&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;HackerRankでRubyの記憶を呼び覚ます（以下のコースが完了）
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hackerrank.com/domains/ruby/arrays&#34;&gt;https://www.hackerrank.com/domains/ruby/arrays&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hackerrank.com/domains/ruby/ruby-enumerables&#34;&gt;https://www.hackerrank.com/domains/ruby/ruby-enumerables&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;お仕事の電話が途中でかかってきて、あまり集中はできなかった。&lt;/li&gt;
-&lt;li&gt;Rubyのいろいろを思い出したら、次は昔Javaで解いたアルゴリズム系の問題をRubyで解きたい。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;すごいHaskellたのしく学ぼう! を読み進めた (66%)&lt;/li&gt;
-&lt;li&gt;Functor を知った&lt;/li&gt;
-&lt;li&gt;Applicative を知った&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;50% を超えたくらいから急激に難しくなってきたような……&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;pjxiao:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;pjxiao&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-2:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SICP&lt;/li&gt;
-&lt;li&gt;環境設定&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2:c981c43aa40f94d34cf4a1e0f3719e1b&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;MSYS2 で Gauche を使うために環境設定を頑張ったけどダメでした&lt;/li&gt;
-&lt;li&gt;諦めて VM に作業を移したので、早いところ VM の環境設定を済ませたい&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

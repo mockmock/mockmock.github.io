@@ -6,8 +6,76 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 15 May 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 May 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #61</title>
+      <link>https://mockmock.github.io/post/no61/</link>
+      <pubDate>Sun, 22 May 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no61/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/32062/&#34;&gt;mockmock.dev #61 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kuy&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/akatsuki174&#34;&gt;@akatsuki174&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;cawa:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;cawa&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Landing Pageのデザイン（未着手）&lt;/li&gt;
+&lt;li&gt;アクセラレータApplication 準備（進行中）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;進捗のひどさに絶望している。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kuy:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;kuy&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;redux-saga可視化ツール開発のため、主にD3 v4のd3-pathを調べていた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;とりあえずそれっぽい可視化はできた（けど課題多すぎ）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;akatsuki174:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;akatsuki174&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gotanda.mobile #1の勉強会参加レポート(2/3くらい終わった)
+全部書き終わったらここに載せようかな、とか思ったり。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;参加レポート書くのって時間かかる（しみじみ&lt;/li&gt;
+&lt;li&gt;Kotlin触ってみたい欲が増した&lt;/li&gt;
+&lt;li&gt;賢くなったAndroid Emulator2.0を触ってみたい&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #60</title>
@@ -1024,90 +1092,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;React の API は複雑過ぎると改めて感じた。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #45</title>
-      <link>https://mockmock.github.io/post/no45/</link>
-      <pubDate>Sun, 31 Jan 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no45/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/25651/&#34;&gt;mockmock.dev #45 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/blp1526&#34;&gt;@blp1526&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Podcastで紹介するスタートアップ、ベンチャーネタを２つ収集
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.samaltman.com/before-growth&#34;&gt;Before Growth - Sam Altman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.btrax.com/jp/2015/12/24/fail2015/&#34;&gt;2015年に終了した30のスタートアップとその失敗理由 | freshtrax | btrax スタッフブログ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;HackerRankでRubyの記憶を呼び覚ます（以下のコースが完了）
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hackerrank.com/challenges/sherlock-and-squares&#34;&gt;Sherlock and Squares : Challenge | Implementation | Algorithms | HackerRank&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;英語の記事を読むときに日本語メモを残しとかないと、あとで必要なときに内容を忘れがち。でもメモとるの面倒&lt;/li&gt;
-&lt;li&gt;最初から完璧なロジックを書こうとするんじゃなく、とりあえずは正解を出力することだけにフォーカスすると、割りとさくっと問題とける&lt;/li&gt;
-&lt;li&gt;Rubyの多重代入思い出せた&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;blog.bouzuya.net の更新 (2016-01-30 tsd から typings に移行した)&lt;/li&gt;
-&lt;li&gt;blog.bouzuya.net の次記事の下書き (path-to-regexp をためした・virtual-dom 変換パッケージ)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1 月も終わりかあ……&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;blp1526:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;blp1526&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-2:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;スクリーンショットアプリを作成開始&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/blp1526/cammy&#34;&gt;https://github.com/blp1526/cammy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;カメラアイコンのクリックから capture 押下で デスクトップに画像の保存まで。&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Perl の TDD の練習は着手できず。&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2:20abeb80480f4201220ae0dffd6c8d9c&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;メニューに Preferenses を追加してパスの指定などを自由に設定できるようにしたい。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

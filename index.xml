@@ -6,8 +6,135 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 29 May 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jun 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #63</title>
+      <link>https://mockmock.github.io/post/no63/</link>
+      <pubDate>Sun, 05 Jun 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no63/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/32934/&#34;&gt;mockmock.dev #63 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kuy&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;nagaishi&lt;/li&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;以下の記事を読む
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://trailblazer.to/guides/trailblazer-in-20-minutes.html&#34;&gt;Trailblazer: Trailblazer In 20 Minutes (Actually, Even Less)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shiumachi.hatenablog.com/entry/2016/06/04/160916&#34;&gt;セールスエンジニアという仕事: プログラマorマネージャーというキャリアパスは古い - 科学と非科学の迷宮&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;読書
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oreilly.co.jp/books/9784873115894/&#34;&gt;O&amp;rsquo;Reilly Japan - SQLアンチパターン&lt;/a&gt; 進捗47%&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;隣のRailsアプリを開発しているチームでTrailblazerを導入すべきか議論しているチームがあって勉強してみた。Railsの規約をより強くした印象。確かにどこに何を書くべきかはっきりする。そのルールの上でどのくらい柔軟にできるのか、使ってみないとわからないとは思った。（柔軟にできる必要はないのかもだけど）&lt;/li&gt;
+&lt;li&gt;SQLアンチパターンの著者は、画像データをBLOB型でテーブルに突っ込むことに肯定的。ただし、トレードオフはあるよ、というスタンス。フラットな視点で自分も考えてみよう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kuy:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;kuy&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;p&gt;-次に趣味開発するアプリの機能を列挙して、ドメインのモデリングしてみた（途中）
+- Electronを使ったアプリの設計について考えてみた&lt;/p&gt;
+
+&lt;h3 id=&#34;感想-1:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;モデリング時間かかるけど、いろいろ洗い出しできて楽しい&lt;/li&gt;
+&lt;li&gt;ElectronでMainとRendererがそんなキレイに分かれるのか不安&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eater の TypeScript での再実装 (beater の作成)&lt;/li&gt;
+&lt;li&gt;beater に stderr -&amp;gt; Error のアイデアを適用する&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;あとはテストを書いて公開するだけ……&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;nagaishi:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;nagaishi&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;もくもく会のスライド作成&lt;/li&gt;
+&lt;li&gt;もくもく会(7月)のイベント下書き作成&lt;/li&gt;
+&lt;li&gt;Swiftをダラダラと記述&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-3:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ゆるゆるとできてよかった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tjnet:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;tjnet&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-4:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ViewModel 一通り作った&lt;/li&gt;
+&lt;li&gt;ViewModel のテスト書いた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/tjnet/NewsAppSwiftMVVM/commits/master&#34;&gt;https://github.com/tjnet/NewsAppSwiftMVVM/commits/master&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;感想-4:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;非同期処理のテストは癖があるな、、&lt;/li&gt;
+&lt;li&gt;あと、Viewいじれば完成しそう&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#sasaki-r&lt;/p&gt;
+
+&lt;h3 id=&#34;やったこと-5:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一応重回帰分析で対散布図の出力&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-5:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;もうちょっとやって、いろいろ利用できるようにしていきたいです。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #62</title>
@@ -1078,61 +1205,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;bouzuya/vdom-rxjs-ssr が簡単なことを簡単にできない framework になっている。課題が多い。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #47</title>
-      <link>https://mockmock.github.io/post/no47/</link>
-      <pubDate>Sun, 14 Feb 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no47/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/26783/&#34;&gt;mockmock.dev #47 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;mockmock.dev 活動記録ブログのスタイルシート調整
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://mockmock.github.io/&#34;&gt;http://mockmock.github.io/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;少し読みやすくなった&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「プログラマが知るべき97のこと」を読む（59/97完了）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;「バイナリは常に一つ」であるべきだと改めて認識した。どの環境でも同じバイナリを使えるようにすべき。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/virtual-dom-ssr&#34;&gt;bouzuya/virtual-dom-ssr&lt;/a&gt; のリファクタリング&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1:cb51e1b8959d07a3b5db901e23e9a74c&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;リファクタリングでどうなったら良くなっていると言えるのかの基準は分かりづらい。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

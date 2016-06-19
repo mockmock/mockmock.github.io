@@ -6,8 +6,107 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 12 Jun 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jun 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #65</title>
+      <link>https://mockmock.github.io/post/no65/</link>
+      <pubDate>Sun, 19 Jun 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no65/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/33906/&#34;&gt;mockmock.dev #65 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/akatsuki174&#34;&gt;@akatsuki174&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;読書
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oreilly.co.jp/books/9784873115894/&#34;&gt;O&amp;rsquo;Reilly Japan - SQLアンチパターン&lt;/a&gt; 【読了】&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;次の本を購入
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://gihyo.jp/book/2015/978-4-7741-7197-5&#34;&gt;理論から学ぶデータベース実践入門 ―― リレーショナルモデルによる効率的なSQL：書籍案内｜技術評論社&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;来週のタスクを整理&lt;/li&gt;
+&lt;li&gt;以下を試すためdocker-compose, docker-machine をMacにインストール
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/degica/dockerized-rails-example&#34;&gt;degica/dockerized-rails-example: An example for a dockerized rails application development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;今やってるプロジェクトの開発メンバー全員でSQLアンチパターンを読んでる。メンバー間で共通言語ができてはかどりつつある。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya/status/744408534465470467&#34;&gt;https://twitter.com/bouzuya/status/744408534465470467&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;実際に書いてみると書けないことが多い。写経大事。&lt;/li&gt;
+&lt;li&gt;JavaScript / TypeScript の Generator Function を理解した。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;akatsuki174:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;akatsuki174&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ブログ2本執筆
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://akatsuki174.hatenablog.com/entry/20160619/1466310941&#34;&gt;&lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; (だいたい)新卒エンジニア向け技術交流会 vol.7に参加してきました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://akatsuki174.hatenablog.com/entry/20160619/1466315854&#34;&gt;&lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; 詳解Swift改定版読書勉強会 #14に参加してきました&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ブログを書いて振り返りをすることは大事だなと思いました。&lt;/li&gt;
+&lt;li&gt;Swift3.0についてはそろそろちゃんと勉強しないといけないのではないかと思いました。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;p&gt;-Catalystのプラグインを使ってログインロジック実装
+-DBIcを使うためにSchema情報にリレーションを貼る&lt;/p&gt;
+
+&lt;h3 id=&#34;感想-3:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+
+&lt;p&gt;デバックしにくい、他言語のフレームワークだとDB操作がもう少し楽だった気がする。
+ある程度触り終わったら、直接SQLにパラメーターを入れて処理します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #64</title>
@@ -1161,69 +1260,6 @@
 &lt;ul&gt;
 &lt;li&gt;とりあえず基本的な部分 (Reflection 周り以外) は実装出来たかも&lt;/li&gt;
 &lt;li&gt;初参加でした、また宜しくお願いします！&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #50</title>
-      <link>https://mockmock.github.io/post/no50/</link>
-      <pubDate>Sun, 06 Mar 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no50/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:60bdc295126cd011151c3bb41af0dcab&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/27917/&#34;&gt;mockmock.dev #50 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:60bdc295126cd011151c3bb41af0dcab&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/blp1526&#34;&gt;@blp1526&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;blp1526:60bdc295126cd011151c3bb41af0dcab&#34;&gt;blp1526&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと:60bdc295126cd011151c3bb41af0dcab&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fedora23 での開発環境構築&lt;/li&gt;
-&lt;li&gt;『OpenStack入門』の Kindle 本を読み進める
-
-&lt;ul&gt;
-&lt;li&gt;3.2.7 Swift の内部構造まで&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;（雑用）メインのMacBookProが下の件で修理に出さざるを得ないようなので予備のMacのOSアップデートなど
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://tobalog.com/2015/10/macbookpro-retina-repair/&#34;&gt;http://tobalog.com/2015/10/macbookpro-retina-repair/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想:60bdc295126cd011151c3bb41af0dcab&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;予備Macを引っ張りだすなどでほぼ何もできていないかったので辛い&amp;hellip;&lt;/li&gt;
-&lt;li&gt;OpenStack本は3章でアーキテクチャーの説明に入り面白くなった&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya:60bdc295126cd011151c3bb41af0dcab&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと:60bdc295126cd011151c3bb41af0dcab&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/b-o-a&#34;&gt;bouzuya/b-o-a&lt;/a&gt; の Unit Test を AVA に置き換え&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/b-o-a&#34;&gt;bouzuya/b-o-a&lt;/a&gt; での Error Handling を検証し、駄目なことが分かった……。&lt;/li&gt;
-&lt;li&gt;RxJS → Bacon.js で Error Handling の問題を回避できないか検討中&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1:60bdc295126cd011151c3bb41af0dcab&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AVA いい&lt;/li&gt;
-&lt;li&gt;RxJS で Error 時に停止してしまうのを避けられないのがショックだ……&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

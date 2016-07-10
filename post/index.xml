@@ -6,8 +6,39 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 19 Jun 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #66</title>
+      <link>https://mockmock.github.io/post/no66/</link>
+      <pubDate>Sun, 26 Jun 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no66/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/34322/&#34;&gt;mockmock.dev #66 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;p&gt;JavaScriptでnamespaceもどき&lt;/p&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;p&gt;しっかり、衝突しない設計になっているか不安
+プラグイン開発とかしない限り今後はやらないと思われます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #65</title>
@@ -17,11 +48,11 @@
       <guid>https://mockmock.github.io/post/no65/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/33906/&#34;&gt;mockmock.dev #65 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -30,9 +61,9 @@
 &lt;li&gt;sasaki-r&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;読書
@@ -53,30 +84,30 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;今やってるプロジェクトの開発メンバー全員でSQLアンチパターンを読んでる。メンバー間で共通言語ができてはかどりつつある。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya/status/744408534465470467&#34;&gt;https://twitter.com/bouzuya/status/744408534465470467&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;実際に書いてみると書けないことが多い。写経大事。&lt;/li&gt;
 &lt;li&gt;JavaScript / TypeScript の Generator Function を理解した。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;akatsuki174:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;akatsuki174&lt;/h2&gt;
+&lt;h2 id=&#34;akatsuki174&#34;&gt;akatsuki174&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;ブログ2本執筆
@@ -87,21 +118,21 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;ブログを書いて振り返りをすることは大事だなと思いました。&lt;/li&gt;
 &lt;li&gt;Swift3.0についてはそろそろちゃんと勉強しないといけないのではないかと思いました。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;sasaki-r:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;sasaki-r&lt;/h2&gt;
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-3:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;p&gt;-Catalystのプラグインを使ってログインロジック実装
 -DBIcを使うためにSchema情報にリレーションを貼る&lt;/p&gt;
 
-&lt;h3 id=&#34;感想-3:27d6e2892bd9b9c97488e7ef4110bf88&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
 
 &lt;p&gt;デバックしにくい、他言語のフレームワークだとDB操作がもう少し楽だった気がする。
 ある程度触り終わったら、直接SQLにパラメーターを入れて処理します。&lt;/p&gt;
@@ -116,11 +147,11 @@
       <guid>https://mockmock.github.io/post/no64/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/33362/&#34;&gt;mockmock.dev #64 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -128,9 +159,9 @@
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;読書
@@ -140,37 +171,37 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;一つのSQLだけでムリに問題を解決しないこと。かえって時間がかかったりする。そんなこと昔実際にあったことをふと思い出した。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kuy:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;kuy&lt;/h2&gt;
+&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Qiitaの記事書いた（あとちょい）&lt;/li&gt;
 &lt;li&gt;IDDDさわりだけ読んだ&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;flowtype楽しい&lt;/li&gt;
 &lt;li&gt;DDDの道のりは長い&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;beater についての blog 更新 * 2&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:6e1fba4bb28ecebd214dd2d98690e9c1&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;ためずに毎日こつこつ書こう(定期)。&lt;/li&gt;
@@ -186,11 +217,11 @@
       <guid>https://mockmock.github.io/post/no63/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/32934/&#34;&gt;mockmock.dev #63 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -201,9 +232,9 @@
 &lt;li&gt;sasaki-r&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;以下の記事を読む
@@ -219,45 +250,45 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;隣のRailsアプリを開発しているチームでTrailblazerを導入すべきか議論しているチームがあって勉強してみた。Railsの規約をより強くした印象。確かにどこに何を書くべきかはっきりする。そのルールの上でどのくらい柔軟にできるのか、使ってみないとわからないとは思った。（柔軟にできる必要はないのかもだけど）&lt;/li&gt;
 &lt;li&gt;SQLアンチパターンの著者は、画像データをBLOB型でテーブルに突っ込むことに肯定的。ただし、トレードオフはあるよ、というスタンス。フラットな視点で自分も考えてみよう。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kuy:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;kuy&lt;/h2&gt;
+&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;p&gt;-次に趣味開発するアプリの機能を列挙して、ドメインのモデリングしてみた（途中）
 - Electronを使ったアプリの設計について考えてみた&lt;/p&gt;
 
-&lt;h3 id=&#34;感想-1:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;モデリング時間かかるけど、いろいろ洗い出しできて楽しい&lt;/li&gt;
 &lt;li&gt;ElectronでMainとRendererがそんなキレイに分かれるのか不安&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Eater の TypeScript での再実装 (beater の作成)&lt;/li&gt;
 &lt;li&gt;beater に stderr -&amp;gt; Error のアイデアを適用する&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;あとはテストを書いて公開するだけ……&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;nagaishi:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;nagaishi&lt;/h2&gt;
+&lt;h2 id=&#34;nagaishi&#34;&gt;nagaishi&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-3:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;もくもく会のスライド作成&lt;/li&gt;
@@ -265,15 +296,15 @@
 &lt;li&gt;Swiftをダラダラと記述&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-3:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;ゆるゆるとできてよかった。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;tjnet:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;tjnet&lt;/h2&gt;
+&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-4:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-4&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;ViewModel 一通り作った&lt;/li&gt;
@@ -282,7 +313,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/tjnet/NewsAppSwiftMVVM/commits/master&#34;&gt;https://github.com/tjnet/NewsAppSwiftMVVM/commits/master&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;感想-4:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-4&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;非同期処理のテストは癖があるな、、&lt;/li&gt;
@@ -291,13 +322,13 @@
 
 &lt;p&gt;#sasaki-r&lt;/p&gt;
 
-&lt;h3 id=&#34;やったこと-5:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-5&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;一応重回帰分析で対散布図の出力&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-5:b778768b05e24d42128cbb5beafc1ae8&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-5&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;もうちょっとやって、いろいろ利用できるようにしていきたいです。&lt;/li&gt;
@@ -313,11 +344,11 @@
       <guid>https://mockmock.github.io/post/no62/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/32693/&#34;&gt;mockmock.dev #62 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -326,30 +357,30 @@
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/HappyLuckyAkira&#34;&gt;@HappyLuckyAkira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.oreilly.co.jp/books/9784873115894/&#34;&gt;O&amp;rsquo;Reilly Japan - SQLアンチパターン&lt;/a&gt;を読み進めた。進捗 28%&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;アンチパターンを示しながらも、アンチパターンを例外的に選択しないといけないような状況も合わせて紹介してくれている。&lt;/li&gt;
 &lt;li&gt;どんな状況にも適用できる魔法のような解は存在しなくて、何事もトレードオフを考慮しながら、その時々で最適だと思われる解を選択することが大事だと思った。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kuy:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;kuy&lt;/h2&gt;
+&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;とりあえずredux-saga+Firebaseでanonymousログインと、投稿の保存ができた&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Firebaseお手軽でいいけど、JSのAPIがいけてない部分があった&lt;/li&gt;
@@ -357,9 +388,9 @@
 &lt;li&gt;Socket.IOのときもそうだったけど、もっとカジュアルにredux-sagaとコールバック処理をつなぐヘルパーが必要&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;RFC6570 に関しての覚書、に関しての blog を書いた &lt;a href=&#34;http://blog.bouzuya.net/2016/05/28/&#34;&gt;http://blog.bouzuya.net/2016/05/28/&lt;/a&gt;&lt;/li&gt;
@@ -373,21 +404,21 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;思った以上にクソコードで修正が難しい……&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;happyluckyakira:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;HappyLuckyAkira&lt;/h2&gt;
+&lt;h2 id=&#34;happyluckyakira&#34;&gt;HappyLuckyAkira&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-3:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Excel VBAでテスト駆動開発ができるようには、なった&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-3:9636f7f213e083bf0b435e86c5a5b79e&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Excel VBAは、慣れてなくてつらい&lt;/li&gt;
@@ -403,11 +434,11 @@
       <guid>https://mockmock.github.io/post/no61/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/32062/&#34;&gt;mockmock.dev #61 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
@@ -415,45 +446,45 @@
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/akatsuki174&#34;&gt;@akatsuki174&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;cawa:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;cawa&lt;/h2&gt;
+&lt;h2 id=&#34;cawa&#34;&gt;cawa&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Landing Pageのデザイン（未着手）&lt;/li&gt;
 &lt;li&gt;アクセラレータApplication 準備（進行中）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;進捗のひどさに絶望している。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kuy:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;kuy&lt;/h2&gt;
+&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;redux-saga可視化ツール開発のため、主にD3 v4のd3-pathを調べていた&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;とりあえずそれっぽい可視化はできた（けど課題多すぎ）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;akatsuki174:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;akatsuki174&lt;/h2&gt;
+&lt;h2 id=&#34;akatsuki174&#34;&gt;akatsuki174&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Gotanda.mobile #1の勉強会参加レポート(2/3くらい終わった)
 全部書き終わったらここに載せようかな、とか思ったり。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:432d774c2019b5cc009f3d2f1162a14e&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;参加レポート書くのって時間かかる（しみじみ&lt;/li&gt;
@@ -471,11 +502,11 @@
       <guid>https://mockmock.github.io/post/no60/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:4212df68bca796bd64f1ba0e7943e454&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/31600/&#34;&gt;mockmock.dev #60 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:4212df68bca796bd64f1ba0e7943e454&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -486,9 +517,9 @@
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:4212df68bca796bd64f1ba0e7943e454&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;「Amazon Web Services クラウドネイティブ・アプリケーション開発技法」を読了
@@ -504,30 +535,30 @@
 &lt;li&gt;Railsの開発でわからないところがある後輩の相談にのった。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;教えることは、自分の学びにもなる。(Rails久々だったので、細かいことはかなり抜けている）&lt;/li&gt;
 &lt;li&gt;インフラエンジニアをアプリケーションエンジニアの境界線はどんどん曖昧になっていく&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;cawa:4212df68bca796bd64f1ba0e7943e454&#34;&gt;cawa&lt;/h2&gt;
+&lt;h2 id=&#34;cawa&#34;&gt;cawa&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;今まで書いたコード眺めて、わかってないことリスト作る。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;まだわかってないこと多すぎるので、もう少し自力で頑張ります。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;sm0kym0nkey:4212df68bca796bd64f1ba0e7943e454&#34;&gt;sm0kym0nkey&lt;/h2&gt;
+&lt;h2 id=&#34;sm0kym0nkey&#34;&gt;sm0kym0nkey&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://esa.io/&#34;&gt;esa.io&lt;/a&gt; の Scala client library の（叩き）実装に着手する。
@@ -538,29 +569,29 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;API wrapper の authToken 使う場合のパターンを固めたい&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;sasaki-r:4212df68bca796bd64f1ba0e7943e454&#34;&gt;sasaki-r&lt;/h2&gt;
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-3:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Threadで処理を幾つか書く&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-3:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;マスターするのにまだ時間がかかりそう&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kuy:4212df68bca796bd64f1ba0e7943e454&#34;&gt;kuy&lt;/h2&gt;
+&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-4:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-4&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;b-o-aとRxJSの理解&lt;/li&gt;
@@ -571,23 +602,23 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-4:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-4&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;b-o-aの考え方面白い&lt;/li&gt;
 &lt;li&gt;RxJS実戦投入しないと慣れなそう&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:4212df68bca796bd64f1ba0e7943e454&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-5:4212df68bca796bd64f1ba0e7943e454&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-5&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/ts-redux-saga-ssr&#34;&gt;https://github.com/bouzuya/ts-redux-saga-ssr&lt;/a&gt; を基にしたアプリケーション (peggie2) を途中までつくった&lt;/li&gt;
 &lt;li&gt;react, react-redux を適用&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-5:4212df68bca796bd64f1ba0e7943e454&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-5&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;server-side の reload が結局うまくできず……&lt;/li&gt;
@@ -603,11 +634,11 @@
       <guid>https://mockmock.github.io/post/no59/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/31365/&#34;&gt;mockmock.dev #59 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -618,37 +649,37 @@
 &lt;li&gt;nagaishi&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;「Amazon Web Services クラウドネイティブ・アプリケーション開発技法　一番大切な知識と技術が身につく」を読んだ。(進捗率 50% → 77%）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;最近AWSのサービスが増えすぎていて「うっ」という感じだったけど、この本は複数のサービスを組み合わせたサンプルを豊富に紹介してくれてるので、これからはAWSとなかよくやれそう。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;cawa:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;cawa&lt;/h2&gt;
+&lt;h2 id=&#34;cawa&#34;&gt;cawa&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Kyoto.js #10 参加。発表はチキン丸出しで未遂。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;LTレベル高くてビビりました。次回は何か話せるようにしたい。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;tjnet:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;tjnet&lt;/h2&gt;
+&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;線形代数 ベクトルと固有値 (大学入門ドリル)
@@ -658,7 +689,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;語り口が平易で、かなり分かりやすいです。書き込んで手を動かしながら進める形式もいいですね。&lt;/li&gt;
@@ -669,9 +700,9 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kuy:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;kuy&lt;/h2&gt;
+&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-3:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;redux-sagaの記事半分くらい書いた（引き続き書く！）&lt;/li&gt;
@@ -680,37 +711,37 @@
 &lt;li&gt;testdouble-timersのテストをちょっと修正&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-3:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Kyoto.JS楽しそう！&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kheiakiyama:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;kheiakiyama&lt;/h2&gt;
+&lt;h2 id=&#34;kheiakiyama&#34;&gt;kheiakiyama&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-4:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-4&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Nodeのサービスで Heroku の Shutdown に対応した&lt;/li&gt;
 &lt;li&gt;Heroku deploy hook に対応した&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-4:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-4&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;WebHook 系の動作確認めんどい&lt;/li&gt;
 &lt;li&gt;Heroku に初めてお金払った&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;nagaishi:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;nagaishi&lt;/h2&gt;
+&lt;h2 id=&#34;nagaishi&#34;&gt;nagaishi&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-5:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-5&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Swiftのサンプルアプリを途中まで作った&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-5:8c6ced6a5dc3300e61895648f6872e98&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-5&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Swiftに少し慣れた&lt;/li&gt;
@@ -728,11 +759,11 @@
       <guid>https://mockmock.github.io/post/no58/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:13690686b5c8cd05abe48e75ad882846&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30940/&#34;&gt;mockmock.dev #58 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:13690686b5c8cd05abe48e75ad882846&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -741,9 +772,9 @@
 &lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:13690686b5c8cd05abe48e75ad882846&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;速習ECMAScript6、読了
@@ -753,50 +784,50 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Kindleで売ってる安い本、Webで公開されている記事との差別化が難しい？(Webで事足りちゃう&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;cawa:13690686b5c8cd05abe48e75ad882846&#34;&gt;cawa&lt;/h2&gt;
+&lt;h2 id=&#34;cawa&#34;&gt;cawa&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;すでに（何故か）入っていたnode.js v5.0とv0.10系を消して、v4.4.3(LTS)入れる（結局nodebrew消してnvm使った）&lt;/li&gt;
 &lt;li&gt;gulp 入れようとしてgulp-cli について調べ始める（まだよくわかってない）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;今日中にreact-rails目標に引き続き頑張る&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;sasaki-r:13690686b5c8cd05abe48e75ad882846&#34;&gt;sasaki-r&lt;/h2&gt;
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-2:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;冒頭４章の読了とサンプルの実施&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;設計にいかせるイメージがわかないが、解決方法としてなんとなく頭に入ったので繰り返しやってみる。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;tjnet:13690686b5c8cd05abe48e75ad882846&#34;&gt;tjnet&lt;/h2&gt;
+&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-3:13690686b5c8cd05abe48e75ad882846&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;詳解Swift Chapter 10 クラス定義のためのプロトコル、読了&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-3:13690686b5c8cd05abe48e75ad882846&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;プロトコル、ジェネリクス、クロージャ、オプショナルあたりは何回も読み返したい&lt;/li&gt;
@@ -812,11 +843,11 @@
       <guid>https://mockmock.github.io/post/no57/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:031ab11de75115754f85a43730de259b&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30473/&#34;&gt;mockmock.dev #57 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:031ab11de75115754f85a43730de259b&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -824,9 +855,9 @@
 &lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:031ab11de75115754f85a43730de259b&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと:031ab11de75115754f85a43730de259b&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;「リーダーのための「レジリエンス」入門」読了
@@ -843,39 +874,39 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:031ab11de75115754f85a43730de259b&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;逆境にどう立ち向かって、どう克服したかが大事&lt;/li&gt;
 &lt;li&gt;LDAPの詳しいことについて何もしらないことに気がついた。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kuy:031ab11de75115754f85a43730de259b&#34;&gt;kuy&lt;/h2&gt;
+&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと-1:031ab11de75115754f85a43730de259b&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと-1&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/kuy/testdouble-timers&#34;&gt;testdouble-timers&lt;/a&gt;をリリースした&lt;/li&gt;
 &lt;li&gt;フォローアップ記事を半分くらい書いた&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:031ab11de75115754f85a43730de259b&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;記事書くスピード遅すぎ&lt;/li&gt;
 &lt;li&gt;testdouble-timersは早速testdouble作者がissue立ててくれて嬉しい&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;tjnet:031ab11de75115754f85a43730de259b&#34;&gt;tjnet&lt;/h2&gt;
+&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと-2:031ab11de75115754f85a43730de259b&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと-2&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Web DB Press vol 92. フロントエンド先遣隊を読んだ&lt;/li&gt;
 &lt;li&gt;npm , gulp. gruntを使ったweb開発のフローを眺めた&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:031ab11de75115754f85a43730de259b&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;チームにフロントエンド得意な人が少ないので、頑張ってキャッチアップしたい。&lt;/li&gt;
@@ -892,20 +923,20 @@
       <guid>https://mockmock.github.io/post/no56/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30123/&#34;&gt;mockmock.dev #56 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;BlogなどをホスティングしているVPSに mackerel をインストール
@@ -916,16 +947,16 @@
 &lt;li&gt;家事手伝い&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;本当は参加できない予定だったので、少しでも作業時間がとれたのはラッキーだった。&lt;/li&gt;
 &lt;li&gt;mackerel 見やすくて便利。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;tjnet:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;tjnet&lt;/h2&gt;
+&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと-1:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと-1&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;LT資料作った
@@ -935,7 +966,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:d47c61102c90f2e9fdcdecb2ccbfc6db&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;サービス開発はこれから、、&lt;/li&gt;
@@ -952,11 +983,11 @@
       <guid>https://mockmock.github.io/post/no55/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:3412d0358e44a68bdd01397eeaac8387&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/29709/&#34;&gt;mockmock.dev #55 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:3412d0358e44a68bdd01397eeaac8387&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -964,9 +995,9 @@
 &lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:3412d0358e44a68bdd01397eeaac8387&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと:3412d0358e44a68bdd01397eeaac8387&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;「サービス・スタートアップ」を読了
@@ -976,7 +1007,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:3412d0358e44a68bdd01397eeaac8387&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;MVP（Minimum Viable Product）よりも先にMVS（Minimum Valuable Service）を作るべきという主張&lt;/li&gt;
@@ -984,23 +1015,23 @@
 &lt;li&gt;リーン・スタートアップとは違ったアプローチが学べて勉強になった。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:3412d0358e44a68bdd01397eeaac8387&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと-1:3412d0358e44a68bdd01397eeaac8387&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと-1&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;エリック・エヴァンスのドメイン駆動設計を読んだ ( 4 章まで )&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:3412d0358e44a68bdd01397eeaac8387&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;頭が痛い (関係ない)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;tjnet:3412d0358e44a68bdd01397eeaac8387&#34;&gt;tjnet&lt;/h2&gt;
+&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと-2:3412d0358e44a68bdd01397eeaac8387&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと-2&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.appcoda.com/intermediate-swift-programming-book/&#34;&gt;http://www.appcoda.com/intermediate-swift-programming-book/&lt;/a&gt;
@@ -1008,7 +1039,7 @@
 &lt;li&gt;tableviewのセクションにインデックスを付ける方法を学習した。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:3412d0358e44a68bdd01397eeaac8387&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;急にお仕事入って勉強進まなかった、、&lt;/li&gt;
@@ -1025,11 +1056,11 @@
       <guid>https://mockmock.github.io/post/no54/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:3ead3a852fe918916247cee827219e6d&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/29318/&#34;&gt;mockmock.dev #54 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:3ead3a852fe918916247cee827219e6d&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
@@ -1037,15 +1068,15 @@
 &lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:3ead3a852fe918916247cee827219e6d&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと:3ead3a852fe918916247cee827219e6d&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;実践ドメイン駆動設計の 4 章を半分ほど読んだ&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:3ead3a852fe918916247cee827219e6d&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;アプリケーションサービスの役割がいろいろやっていてこれでいいのか疑問&lt;/li&gt;
@@ -1053,32 +1084,32 @@
 &lt;li&gt;ヘキサゴナルアーキテクチャ。良さそう。Cycle.js っぽい。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ouileau:3ead3a852fe918916247cee827219e6d&#34;&gt;ouileau&lt;/h2&gt;
+&lt;h2 id=&#34;ouileau&#34;&gt;ouileau&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:3ead3a852fe918916247cee827219e6d&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;iPad mini の初期設定完了&lt;/li&gt;
 &lt;li&gt;（予定してないタスクとして）GTDのやり方を友人に解説した。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:3ead3a852fe918916247cee827219e6d&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;iTunes U が見やすい。Stanfordの講義を、毎日会社の昼休みに聞けそうな気がしている。&lt;/li&gt;
 &lt;li&gt;（友人曰く）GTDの不明点がはっきりした、視界が開けた、ありがとう。とのこと&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;tjnet:3ead3a852fe918916247cee827219e6d&#34;&gt;tjnet&lt;/h2&gt;
+&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと-1:3ead3a852fe918916247cee827219e6d&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;詳解Swift 8.2 イニシャライザ&lt;/li&gt;
 &lt;li&gt;必須イニシャライザ、簡易イニシャライザ、失敗のあるイニシャライザ、プロパティオブザーバを学習&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:3ead3a852fe918916247cee827219e6d&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;サンプルやOSSを見ながら、少しづつ実践で覚えていけそう&lt;/li&gt;
@@ -1095,11 +1126,11 @@
       <guid>https://mockmock.github.io/post/no53/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/29006/&#34;&gt;mockmock.dev #53 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
@@ -1108,9 +1139,9 @@
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/ouileau&#34;&gt;@ouileau&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;「サービス・スタートアップ」の1章と2章を読了
@@ -1120,32 +1151,32 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;外堀から順をおって説明してくれているからか、なかなか理解が進まず自分にとっては読みづらい。&lt;/li&gt;
 &lt;li&gt;アニメ音声が耳に入るだけでも、一度見たアニメだと映像が脳内再生されるので、読書が進みづらくなることがわかった。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;okmr-d:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;okmr_d&lt;/h2&gt;
+&lt;h2 id=&#34;okmr-d&#34;&gt;okmr_d&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;「パーフェクトRuby」の第二章を読んだ(二章の70%くらい)&lt;/li&gt;
 &lt;li&gt;勉強したことをまとめた　→　&lt;a href=&#34;https://gist.github.com/okmr-d/a8f28a13427b77dac00c&#34;&gt;https://gist.github.com/okmr-d/a8f28a13427b77dac00c&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;仕事でRubyを書くようになったが、あらためて基礎から勉強すると知らないことが多い&lt;/li&gt;
 &lt;li&gt;本が分厚い。いつ読み終わるのか。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ezuraaa:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;ezuraaa&lt;/h2&gt;
+&lt;h2 id=&#34;ezuraaa&#34;&gt;ezuraaa&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと-1:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと-1&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;勉強会の発表資料作り
@@ -1156,21 +1187,21 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-2:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;概念のお話しをするので、言葉のミュアンスにとても悩みました。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ouileau:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;ouileau&lt;/h2&gt;
+&lt;h2 id=&#34;ouileau&#34;&gt;ouileau&lt;/h2&gt;
 
-&lt;h3 id=&#34;できたこと-2:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;できたこと&lt;/h3&gt;
+&lt;h3 id=&#34;できたこと-2&#34;&gt;できたこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;『jquery 最高の教科書』を1/3の程度読んだ&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-3:68a7a7d8f75a6384ccfe932d95cf6a15&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;主要なメソッドについて、利用例を理解した&lt;/li&gt;
@@ -1188,78 +1219,43 @@
       <guid>https://mockmock.github.io/post/no52/</guid>
       <description>
 
-&lt;h2 id=&#34;イベントページ:717a16231aeae6f24edd62cd5758f5de&#34;&gt;イベントページ&lt;/h2&gt;
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/28751/&#34;&gt;mockmock.dev #52 - connpass&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;参加者:717a16231aeae6f24edd62cd5758f5de&#34;&gt;参加者&lt;/h2&gt;
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;kadoppe:717a16231aeae6f24edd62cd5758f5de&#34;&gt;kadoppe&lt;/h2&gt;
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
 
-&lt;h3 id=&#34;やったこと:717a16231aeae6f24edd62cd5758f5de&#34;&gt;やったこと&lt;/h3&gt;
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;プログラマが知るべき97のこと、を読んだ。97個読み終わった。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想:717a16231aeae6f24edd62cd5758f5de&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;終わった、と思ったら「日本人プログラマによる知っておくべき10のこと」という追加コンテンツがあって、びっくりした。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;bouzuya:717a16231aeae6f24edd62cd5758f5de&#34;&gt;bouzuya&lt;/h2&gt;
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;TodoMVC の仕様 (&lt;a href=&#34;https://github.com/tastejs/todomvc/blob/master/app-spec.md&#34;&gt;https://github.com/tastejs/todomvc/blob/master/app-spec.md&lt;/a&gt;) を読んだ&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/tastejs/todomvc-app-template&#34;&gt;https://github.com/tastejs/todomvc-app-template&lt;/a&gt; を clone して作成中&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;感想-1:717a16231aeae6f24edd62cd5758f5de&#34;&gt;感想&lt;/h3&gt;
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/b-o-a&#34;&gt;bouzuya/b-o-a&lt;/a&gt; の boilerplate code 多い&lt;/li&gt;
 &lt;li&gt;ゼロから環境をつくると大変&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #51</title>
-      <link>https://mockmock.github.io/post/no51/</link>
-      <pubDate>Sun, 13 Mar 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no51/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/28532/&#34;&gt;mockmock.dev #51 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/sm0kym0nkey&#34;&gt;@sm0kym0nkey&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;sm0kym0nkey:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;sm0kym0nkey&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sh0hei/table-flip&#34;&gt;sh0hei/table-flip&lt;/a&gt; の開発&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想:5ec81de60dce39020e5f7e026c9595b1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;とりあえず基本的な部分 (Reflection 周り以外) は実装出来たかも&lt;/li&gt;
-&lt;li&gt;初参加でした、また宜しくお願いします！&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -6,8 +6,77 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 26 Jun 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #67</title>
+      <link>https://mockmock.github.io/post/no67/</link>
+      <pubDate>Sun, 03 Jul 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no67/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/34906/&#34;&gt;mockmock.dev #67 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;li&gt;nayu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;旅行の記録を書き終えた&lt;/li&gt;
+&lt;li&gt;6月のふりかえりを書いた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;6月は &lt;a href=&#34;https://github.com/bouzuya/beater&#34;&gt;bouzuya/beater&lt;/a&gt; や豪旅行など充実していた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Catalystつくってたアプリケーションの拡張&lt;/li&gt;
+&lt;li&gt;Go-Lang Revelフレームワークで掲示板構築&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;mac用のディスプレイ接続アダプタ買ったら、作業がしやすくなった。&lt;/li&gt;
+&lt;li&gt;スケジュール管理のシステムを作っていたがdhtml ganttが便利だった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;nayu&#34;&gt;nayu&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;jQueryデザイン入門を読む。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;p&gt;今まで都度調べながら書いていたし「実践しながら覚えたほうが身につく」って思ってたけど通読して一通り頭に叩き込むのもそれはそれで大事。&lt;/p&gt;
+
+&lt;p&gt;フォームってこんなに要素あるのかよとかCSS3の擬似セレクタって思ってるより多いなとか思った。&lt;/p&gt;
+
+&lt;p&gt;まだこの書籍でいうと手を動かすとこまでいってないので今日はこれ一冊一通り写経するまで寝れま10します。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #66</title>
@@ -1207,55 +1276,6 @@
 &lt;li&gt;主要なメソッドについて、利用例を理解した&lt;/li&gt;
 &lt;li&gt;スティッキーヘッダーなるものを、再発明しようとしてた事実を発見したorz&lt;/li&gt;
 &lt;li&gt;昨日、飲み過ぎて、今眠い&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #52</title>
-      <link>https://mockmock.github.io/post/no52/</link>
-      <pubDate>Sun, 20 Mar 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no52/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/28751/&#34;&gt;mockmock.dev #52 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;プログラマが知るべき97のこと、を読んだ。97個読み終わった。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;終わった、と思ったら「日本人プログラマによる知っておくべき10のこと」という追加コンテンツがあって、びっくりした。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;TodoMVC の仕様 (&lt;a href=&#34;https://github.com/tastejs/todomvc/blob/master/app-spec.md&#34;&gt;https://github.com/tastejs/todomvc/blob/master/app-spec.md&lt;/a&gt;) を読んだ&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tastejs/todomvc-app-template&#34;&gt;https://github.com/tastejs/todomvc-app-template&lt;/a&gt; を clone して作成中&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/b-o-a&#34;&gt;bouzuya/b-o-a&lt;/a&gt; の boilerplate code 多い&lt;/li&gt;
-&lt;li&gt;ゼロから環境をつくると大変&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

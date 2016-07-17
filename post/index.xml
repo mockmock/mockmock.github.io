@@ -6,8 +6,130 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 10 Jul 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jul 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #69</title>
+      <link>https://mockmock.github.io/post/no69/</link>
+      <pubDate>Sun, 17 Jul 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no69/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/35727/&#34;&gt;mockmock.dev #69 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/eduraaa&#34;&gt;@eduraaa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;makincyo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/orangain&#34;&gt;@orangain&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;これから作ろうとしていたRailsアプリのローカル開発環境をDocker Composeをつかって構築できるように設定完了
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kadoppe/pokedb/pull/1&#34;&gt;Local dev env by Docker Compose by kadoppe · Pull Request #1 · kadoppe/pokedb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;docker-compose up -d コマンドを実行すると、必要なミドルウェアとWEBrickが立ち上がるように&lt;/li&gt;
+&lt;li&gt;以下を参考にbundlerの実行を高速化&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bradgessler.com/articles/docker-bundler/&#34;&gt;Make bundler fast again in Docker Compose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;docker-composeで作った環境上でpry-byebugをつかったデバッグができるようになるまで進みたかったけど、集中力が足りずとどかなかった。&lt;/li&gt;
+&lt;li&gt;床に座ってやってたら腰がいたくなった。書斎欲しい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SICP の 3 章の続き (p253-p390) を読んだ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3 章は「モジュール性・オブジェクト・状態」。&lt;/li&gt;
+&lt;li&gt;代入によって「時間」を計算モデルに入れないといけなくなることが分かった。&lt;/li&gt;
+&lt;li&gt;代入 (明示的状態) と並行性を同時に考慮すると複雑になることが分かった。&lt;/li&gt;
+&lt;li&gt;オブジェクト指向プログラミングと関数型プログラミングは一長一短ではあるけれど、ぼくは関数型プログラミングのほうが好きだと改めて感じた。&lt;/li&gt;
+&lt;li&gt;流し読みなので 8 月に改めて読む予定&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;eduraaa&#34;&gt;eduraaa&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;記事書き
+
+&lt;ul&gt;
+&lt;li&gt;題名: Swift リファクタリング実践 tips2&lt;/li&gt;
+&lt;li&gt;進捗: 80%&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Swift の動画観ました
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://talk.objc.io/episodes/S01E06-generic-table-view-controllers&#34;&gt;https://talk.objc.io/episodes/S01E06-generic-table-view-controllers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;p&gt;動画に出てくる人たちが楽しそうに話していて微笑ましかったです。&lt;/p&gt;
+
+&lt;h2 id=&#34;makincyo&#34;&gt;makincyo&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pythonスクレイピング本の挿画の修正をした&lt;/li&gt;
+&lt;li&gt;bathのロゴを作る（途中まで）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;誰かが作業してると考えると捗ります。&lt;/li&gt;
+&lt;li&gt;息子が高頻度で邪魔します(´・ω・`)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;orangain&#34;&gt;orangain&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-4&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;*要素*と*タグ*の使い分け・表記について悩んだ結果、方針が決まった。
+
+&lt;ul&gt;
+&lt;li&gt;*要素*は開始終了タグで囲われた全体。*タグ*は開始終了タグ。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;aタグ&lt;/code&gt;、&lt;code&gt;p要素&lt;/code&gt;のように&lt;code&gt;&amp;lt;&amp;gt;&lt;/code&gt;をつけずに表記する。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;3.3.2項（p82-p85）の修正が完了&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-4&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;悩んでいるとすぐに時間が経ってしまう。次回は進捗出すぞ！&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #68</title>
@@ -1191,76 +1313,6 @@
 &lt;ul&gt;
 &lt;li&gt;急にお仕事入って勉強進まなかった、、&lt;/li&gt;
 &lt;li&gt;tableviewはまだまだ奥が深い&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #54</title>
-      <link>https://mockmock.github.io/post/no54/</link>
-      <pubDate>Sun, 03 Apr 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no54/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/29318/&#34;&gt;mockmock.dev #54 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ouileau&#34;&gt;@ouileau&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;実践ドメイン駆動設計の 4 章を半分ほど読んだ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;アプリケーションサービスの役割がいろいろやっていてこれでいいのか疑問&lt;/li&gt;
-&lt;li&gt;依存関係逆転の原則、分かるような分からないような。&lt;/li&gt;
-&lt;li&gt;ヘキサゴナルアーキテクチャ。良さそう。Cycle.js っぽい。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ouileau&#34;&gt;ouileau&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;iPad mini の初期設定完了&lt;/li&gt;
-&lt;li&gt;（予定してないタスクとして）GTDのやり方を友人に解説した。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;iTunes U が見やすい。Stanfordの講義を、毎日会社の昼休みに聞けそうな気がしている。&lt;/li&gt;
-&lt;li&gt;（友人曰く）GTDの不明点がはっきりした、視界が開けた、ありがとう。とのこと&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;詳解Swift 8.2 イニシャライザ&lt;/li&gt;
-&lt;li&gt;必須イニシャライザ、簡易イニシャライザ、失敗のあるイニシャライザ、プロパティオブザーバを学習&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;サンプルやOSSを見ながら、少しづつ実践で覚えていけそう&lt;/li&gt;
-&lt;li&gt;書籍の内容とサポートページのサンプルコードがちょいちょい違う&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

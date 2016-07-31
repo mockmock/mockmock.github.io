@@ -6,8 +6,73 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 24 Jul 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #71</title>
+      <link>https://mockmock.github.io/post/no71/</link>
+      <pubDate>Sun, 31 Jul 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no71/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/36572/&#34;&gt;mockmock.dev #71 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/eduraaa&#34;&gt;@eduraaa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/stlwolf13&#34;&gt;@stlwolf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;g-naka&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;eduraaa&#34;&gt;eduraaa&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「情熱プログラマー」読む&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;やる気に満ち溢れました。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stlwolf&#34;&gt;stlwolf&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;githubにpushしたらBitrizeCIがテストしてベータ配信してくれる…はずがエラーでるので調査中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;予想どおりすんなりとは行かなかった…&lt;/li&gt;
+&lt;li&gt;そもそもCI上でのビルドに時間かかるので待ち時間が&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;g-naka&#34;&gt;g-naka&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;nodeschool.learnyounode 3-5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;やはりコールバック関数を理解できていない。。。簡単なところからコールバックを勉強しなおしかな？&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #70</title>
@@ -1271,66 +1336,6 @@
 &lt;ul&gt;
 &lt;li&gt;チームにフロントエンド得意な人が少ないので、頑張ってキャッチアップしたい。&lt;/li&gt;
 &lt;li&gt;node_moduleの安全性って、みんなどうやってチェックしてるんだろうな&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #56</title>
-      <link>https://mockmock.github.io/post/no56/</link>
-      <pubDate>Sun, 17 Apr 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no56/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30123/&#34;&gt;mockmock.dev #56 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BlogなどをホスティングしているVPSに mackerel をインストール
-
-&lt;ul&gt;
-&lt;li&gt;mackerelとSlackを連携させて、アラートを通知するように&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;家事手伝い&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;本当は参加できない予定だったので、少しでも作業時間がとれたのはラッキーだった。&lt;/li&gt;
-&lt;li&gt;mackerel 見やすくて便利。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと-1&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;LT資料作った
-
-&lt;ul&gt;
-&lt;li&gt;今週金曜日にしゃべってきます&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;サービス開発はこれから、、&lt;/li&gt;
-&lt;li&gt;いい感じでペースメーカーになってる&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

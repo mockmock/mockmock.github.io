@@ -6,8 +6,85 @@
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 31 Jul 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Aug 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #72</title>
+      <link>https://mockmock.github.io/post/no72/</link>
+      <pubDate>Sun, 07 Aug 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no72/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/37030/&#34;&gt;mockmock.dev #72 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/stlwolf13&#34;&gt;@stlwolf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Better Specsの改めて読み、今やってるプロジェクトに適用できることをリストアップ。
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://betterspecs.org/jp/&#34;&gt;Better Specs { rspec guidelines with ruby }&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Rails Guideを読んで、i18n周りのコーディング規約を検討した。
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://railsguides.jp/i18n.html&#34;&gt;Rails国際化(I18n) API | Rails ガイド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;基本、ルールはあまり増やしたくない&lt;/li&gt;
+&lt;li&gt;メンバーが悩みだしたり、意見の相違がでてきて何が正しいのかわからなくなり始めたら、必要最低限のルールは必要&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://inkscape.org/ja/learn/tutorials/&#34;&gt;Inkscape のチュートリアル&lt;/a&gt;をざっと読んだ。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/kraken&#34;&gt;bouzuya/kraken&lt;/a&gt; の logo をつくった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Inkscape の shape すごい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;stlwolf&#34;&gt;stlwolf&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UnityをDLしてきた&lt;/li&gt;
+&lt;li&gt;ドットインストールのUnity入門 #1 〜 #12 見ながらいじってみた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3D系のツールを久しぶりに触ると楽しい&lt;/li&gt;
+&lt;li&gt;色々と便利になったなーと感じた&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #71</title>
@@ -1256,86 +1333,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;プロトコル、ジェネリクス、クロージャ、オプショナルあたりは何回も読み返したい&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #57</title>
-      <link>https://mockmock.github.io/post/no57/</link>
-      <pubDate>Sun, 24 Apr 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no57/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30473/&#34;&gt;mockmock.dev #57 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kui&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;「リーダーのための「レジリエンス」入門」読了
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/4569821677/&#34;&gt;http://www.amazon.co.jp/dp/4569821677/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Spring Getting Started Guides読み込み
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/authenticating-ldap/&#34;&gt;Getting Started · Authenticating a User with LDAP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/register-facebook-app/&#34;&gt;Getting Started · Registering an Application with Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/messaging-redis/&#34;&gt;Getting Started · Messaging with Redis&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;逆境にどう立ち向かって、どう克服したかが大事&lt;/li&gt;
-&lt;li&gt;LDAPの詳しいことについて何もしらないことに気がついた。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと-1&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/kuy/testdouble-timers&#34;&gt;testdouble-timers&lt;/a&gt;をリリースした&lt;/li&gt;
-&lt;li&gt;フォローアップ記事を半分くらい書いた&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;記事書くスピード遅すぎ&lt;/li&gt;
-&lt;li&gt;testdouble-timersは早速testdouble作者がissue立ててくれて嬉しい&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
-
-&lt;h3 id=&#34;できたこと-2&#34;&gt;できたこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Web DB Press vol 92. フロントエンド先遣隊を読んだ&lt;/li&gt;
-&lt;li&gt;npm , gulp. gruntを使ったweb開発のフローを眺めた&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;チームにフロントエンド得意な人が少ないので、頑張ってキャッチアップしたい。&lt;/li&gt;
-&lt;li&gt;node_moduleの安全性って、みんなどうやってチェックしてるんだろうな&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

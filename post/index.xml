@@ -6,8 +6,81 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 07 Aug 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #73</title>
+      <link>https://mockmock.github.io/post/no73/</link>
+      <pubDate>Sun, 14 Aug 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no73/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/37549/&#34;&gt;mockmock.dev #73 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kwaka1208&#34;&gt;@kwaka1208&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Railsアプリケーションの開発環境をVagrant + Ansibleを使って構築
+
+&lt;ul&gt;
+&lt;li&gt;Ansibleのroleは Ansilbe Galaxyに投稿されているものをできるだけ使う方針
+    * &lt;a href=&#34;https://galaxy.ansible.com/&#34;&gt;https://galaxy.ansible.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;OS/ミドルウェアのセットアップは完了した。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;しょうもないところでハマって時間がかかってしまった。（お酒が入っているからかもしれない）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ジグソーパズルを完成させた &lt;a href=&#34;https://mockmock.slack.com/archives/general/p1471152456000022&#34;&gt;https://mockmock.slack.com/archives/general/p1471152456000022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;結婚式の写真を縁に入れた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ジグソーパズルは絵柄のあるほうが楽しい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kwaka1208&#34;&gt;kwaka1208&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;残りタスクの洗い出し&lt;/li&gt;
+&lt;li&gt;来場者向け案内作成&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;あと2週間なのに大丈夫なのか、俺。&lt;/li&gt;
+&lt;li&gt;DojoConが終わったら勉強目的で参加します。 :bow:&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #72</title>
@@ -1249,90 +1322,6 @@
 &lt;li&gt;Swiftに少し慣れた&lt;/li&gt;
 &lt;li&gt;Xcodeの使い方を思い出した&lt;/li&gt;
 &lt;li&gt;継続しないと忘れそう。。。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #58</title>
-      <link>https://mockmock.github.io/post/no58/</link>
-      <pubDate>Sun, 01 May 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no58/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/30940/&#34;&gt;mockmock.dev #58 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;sasaki-r&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://qiita.com/tjnet&#34;&gt;@tjnet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;速習ECMAScript6、読了
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B014MS5XWK/&#34;&gt;https://www.amazon.co.jp/dp/B014MS5XWK/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kindleで売ってる安い本、Webで公開されている記事との差別化が難しい？(Webで事足りちゃう&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;cawa&#34;&gt;cawa&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;すでに（何故か）入っていたnode.js v5.0とv0.10系を消して、v4.4.3(LTS)入れる（結局nodebrew消してnvm使った）&lt;/li&gt;
-&lt;li&gt;gulp 入れようとしてgulp-cli について調べ始める（まだよくわかってない）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;今日中にreact-rails目標に引き続き頑張る&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;冒頭４章の読了とサンプルの実施&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;設計にいかせるイメージがわかないが、解決方法としてなんとなく頭に入ったので繰り返しやってみる。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tjnet&#34;&gt;tjnet&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;詳解Swift Chapter 10 クラス定義のためのプロトコル、読了&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;プロトコル、ジェネリクス、クロージャ、オプショナルあたりは何回も読み返したい&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -6,8 +6,79 @@
     <description>Recent content in Posts on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 21 Aug 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #75</title>
+      <link>https://mockmock.github.io/post/no75/</link>
+      <pubDate>Sun, 28 Aug 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no75/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/38490/&#34;&gt;mockmock.dev #75 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kheiakiyama&#34;&gt;@kheiakiyama&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;とあるイベントの準備&lt;/li&gt;
+&lt;li&gt;Qiita記事投稿１件
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/kadoppe/items/b17bf60337ebb18f00e8&#34;&gt;SSLを有効にしたNginxが自動起動しなくなった時の対処法 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;調べたことをアウトプットするのは大事。日々他のヒトのアウトプットに助けられているからなぁ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kheiakiyama&#34;&gt;kheiakiyama&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;react-router 導入した&lt;/li&gt;
+&lt;li&gt;Component の visible 切り替えは動いてる&lt;/li&gt;
+&lt;li&gt;リンクが効かない、Rails 側から store の状態が渡せてない&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;いきなり組み込むんじゃなくうまくいってる人のサンプルから試すべきかも&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Javaのコンパイル方式について「Javaパフォーマンス」で勉強できた内容を整理できた。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Android実行環境までの細かい学習ができていないので、学習していきたい.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #74</title>
@@ -1145,138 +1216,6 @@
 &lt;li&gt;参加レポート書くのって時間かかる（しみじみ&lt;/li&gt;
 &lt;li&gt;Kotlin触ってみたい欲が増した&lt;/li&gt;
 &lt;li&gt;賢くなったAndroid Emulator2.0を触ってみたい&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #60</title>
-      <link>https://mockmock.github.io/post/no60/</link>
-      <pubDate>Sun, 15 May 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no60/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/31600/&#34;&gt;mockmock.dev #60 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/sm0kym0nkey&#34;&gt;@sm0kym0nkey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;sasaki-r&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kuy&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;「Amazon Web Services クラウドネイティブ・アプリケーション開発技法」を読了
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/B01E8EQ264&#34;&gt;https://www.amazon.co.jp/dp/B01E8EQ264&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;「SQLアンチパターン」を購入
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.oreilly.co.jp/books/9784873115894/&#34;&gt;https://www.oreilly.co.jp/books/9784873115894/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Railsの開発でわからないところがある後輩の相談にのった。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;教えることは、自分の学びにもなる。(Rails久々だったので、細かいことはかなり抜けている）&lt;/li&gt;
-&lt;li&gt;インフラエンジニアをアプリケーションエンジニアの境界線はどんどん曖昧になっていく&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;cawa&#34;&gt;cawa&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;今まで書いたコード眺めて、わかってないことリスト作る。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;まだわかってないこと多すぎるので、もう少し自力で頑張ります。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;sm0kym0nkey&#34;&gt;sm0kym0nkey&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://esa.io/&#34;&gt;esa.io&lt;/a&gt; の Scala client library の（叩き）実装に着手する。
-
-&lt;ul&gt;
-&lt;li&gt;プロジェクト作成&lt;/li&gt;
-&lt;li&gt;モデル定義の実装&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;API wrapper の authToken 使う場合のパターンを固めたい&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Threadで処理を幾つか書く&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;マスターするのにまだ時間がかかりそう&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-4&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;b-o-aとRxJSの理解&lt;/li&gt;
-&lt;li&gt;redux-devtoolsとredux-devtools-instrumentの仕組みを調べた
-
-&lt;ul&gt;
-&lt;li&gt;Providerは１つだけど、liftedStoreというものを定義してアプリ自体のStoreには影響しないようにしてる&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-4&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;b-o-aの考え方面白い&lt;/li&gt;
-&lt;li&gt;RxJS実戦投入しないと慣れなそう&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-5&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/ts-redux-saga-ssr&#34;&gt;https://github.com/bouzuya/ts-redux-saga-ssr&lt;/a&gt; を基にしたアプリケーション (peggie2) を途中までつくった&lt;/li&gt;
-&lt;li&gt;react, react-redux を適用&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-5&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;server-side の reload が結局うまくできず……&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -2,12 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>log.mockmock.dev</title>
-    <link>https://mockmock.github.io/</link>
+    <link>https://mockmock.github.io/index.xml</link>
     <description>Recent content on log.mockmock.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 28 Aug 2016 15:00:00 +0900</lastBuildDate>
+    <copyright>mockmock.dev All rights reserved.</copyright>
+    <lastBuildDate>Sun, 20 Nov 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #86</title>
+      <link>https://mockmock.github.io/post/no86/</link>
+      <pubDate>Sun, 20 Nov 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no86/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mockmock.connpass.com/event/45123/&#34;&gt;mockmock.dev #86 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;itsango&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/potato4d&#34;&gt;@potato4d&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/blp1526&#34;&gt;@blp1526&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blp1526&#34;&gt;blp1526&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gotanda-rb.connpass.com/event/45425/&#34;&gt;https://gotanda-rb.connpass.com/event/45425/&lt;/a&gt; のためのネタ探し
+
+&lt;ul&gt;
+&lt;li&gt;Working With TCP Sockets &lt;a href=&#34;https://www.amazon.co.jp/dp/B00BPYT6PK&#34;&gt;https://www.amazon.co.jp/dp/B00BPYT6PK&lt;/a&gt; 読書&lt;/li&gt;
+&lt;li&gt;未翻訳なので &lt;a href=&#34;https://ryo511.info/archives/3844&#34;&gt;https://ryo511.info/archives/3844&lt;/a&gt; こちらの方の読書メモを頼りに&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cat /proc/sys/net/ipv4/ip_local_port_range を初めて覗いた&amp;hellip;
+
+&lt;ul&gt;
+&lt;li&gt;というか、ls /proc/sys/net/ipv4 を確認すること自体が初めてだった&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;家の掃除&lt;/li&gt;
+&lt;li&gt;Technology Raderを眺めて気になる技術探し
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thoughtworks.com/radar&#34;&gt;https://www.thoughtworks.com/radar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;頭痛であまり集中できなかった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自分のつくっているシステムの拡張&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;peyloadに入れたjsonデータをCatalystさんが余計なことしてるらしく苦戦　FormDataで送りたくない諸事情…
+インターン先で使わなければGinとか勉強しつつ書き換えたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;potato4d&#34;&gt;potato4d&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;potato4d/vue-dev-templateを更新した
+
+&lt;ul&gt;
+&lt;li&gt;↑の更新に伴って解説用Qiitaも更新した&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;イベントのMTG用資料作成途中で終わってしまった&lt;/li&gt;
+&lt;li&gt;簡単なQiitaを書いた &lt;a href=&#34;http://qiita.com/potato4d/items/3ff60e2173222b43ac9c&#34;&gt;http://qiita.com/potato4d/items/3ff60e2173222b43ac9c&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「学んだことはPublishする」の習慣づけのためにやってるQiita更新の頻度が上がってきたので良い&lt;/li&gt;
+&lt;li&gt;お腹が痛い&lt;/li&gt;
+&lt;li&gt;次も参加して頑張りたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-4&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bouzuya/time-keeper-js/&#34;&gt;bouzuya/time-keeper-js&lt;/a&gt; の 1.0.0 をつくった&lt;/li&gt;
+&lt;li&gt;2.0 は作業中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-4&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;TypeScript 1.8 の project が多くて困る&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;itsango&#34;&gt;itsango&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-5&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;schoo視聴完&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-5&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UML&amp;amp;RUP奥が深い&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #75</title>
@@ -1148,74 +1282,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;Excel VBAは、慣れてなくてつらい&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #61</title>
-      <link>https://mockmock.github.io/post/no61/</link>
-      <pubDate>Sun, 22 May 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no61/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/32062/&#34;&gt;mockmock.dev #61 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/cawa&#34;&gt;@cawa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kuy&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/akatsuki174&#34;&gt;@akatsuki174&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;cawa&#34;&gt;cawa&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Landing Pageのデザイン（未着手）&lt;/li&gt;
-&lt;li&gt;アクセラレータApplication 準備（進行中）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;進捗のひどさに絶望している。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;redux-saga可視化ツール開発のため、主にD3 v4のd3-pathを調べていた&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;とりあえずそれっぽい可視化はできた（けど課題多すぎ）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;akatsuki174&#34;&gt;akatsuki174&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gotanda.mobile #1の勉強会参加レポート(2/3くらい終わった)
-全部書き終わったらここに載せようかな、とか思ったり。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;参加レポート書くのって時間かかる（しみじみ&lt;/li&gt;
-&lt;li&gt;Kotlin触ってみたい欲が増した&lt;/li&gt;
-&lt;li&gt;賢くなったAndroid Emulator2.0を触ってみたい&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

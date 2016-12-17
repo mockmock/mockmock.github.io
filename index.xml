@@ -7,8 +7,118 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>mockmock.dev All rights reserved.</copyright>
-    <lastBuildDate>Sun, 20 Nov 2016 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Dec 2016 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://mockmock.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mockmock.dev #89</title>
+      <link>https://mockmock.github.io/post/no89/</link>
+      <pubDate>Sun, 11 Dec 2016 15:00:00 +0900</pubDate>
+      
+      <guid>https://mockmock.github.io/post/no89/</guid>
+      <description>
+
+&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mockmock.connpass.com/event/46520/&#34;&gt;mockmock.dev #89 - connpass&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/blp1526&#34;&gt;@blp1526&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;kumiko&lt;/li&gt;
+&lt;li&gt;sasaki-r&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/potato4d&#34;&gt;@potato4d&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blp1526&#34;&gt;blp1526&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;アドベントカレンダーを書いて投稿した
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/blp1526/items/0a88299d4bd841d01e3f&#34;&gt;http://qiita.com/blp1526/items/0a88299d4bd841d01e3f&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Vim のステータスラインを変更する方法を調べたりするなどした
+
+&lt;ul&gt;
+&lt;li&gt;ステータスラインを変更するプラグインを入れるほど大げさでなくても個人的には問題ないと気づいたので&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;sgdisk -L で表示されるリストが便利すぎて最高&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;VS Code に textlint 拡張を入れた。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.bouzuya.net/2016/12/09/&#34;&gt;2016-12-09&lt;/a&gt; を書いた。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.bouzuya.net/2016/12/10/&#34;&gt;2016-12-10&lt;/a&gt; を書いた。&lt;/li&gt;
+&lt;li&gt;(bouzuya) PureScript Advent Calendar 2016 の &lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt; の下書きをしている (途中) 。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;VS Code にしてから入れてなかった textlint を入れたら、すごい訂正される。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;kumiko&#34;&gt;kumiko&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「インタフェース」の問題でつまづいたのでおさらい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;かなり集中できなかった。&lt;/li&gt;
+&lt;li&gt;他のことをやりながらでも一応2時間できたので良かった。&lt;/li&gt;
+&lt;li&gt;今日の問題点は理解したと思うので、また次回は次の問題に進めそう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sasaki-r&#34;&gt;sasaki-r&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;モジュール漁ってた。&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;パフォーマンスをプロファイリングしながら差分見てた。Sizeや参照カウント数をみてGCとか考察(あんま考えてない)&lt;/p&gt;
+
+&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;関係ないけどVim をかっこよくしたい。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;potato4d&#34;&gt;potato4d&lt;/h2&gt;
+
+&lt;h3 id=&#34;やったこと-4&#34;&gt;やったこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Riot.jsアドベントカレンダーを書いた&lt;/li&gt;
+&lt;li&gt;ポエムアドベントカレンダーを書いてる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;感想-4&#34;&gt;感想&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Riot以外のカレンダーのネタを考えるのに時間をかかった。&lt;/li&gt;
+&lt;li&gt;ネタ探しに時間がかかるので、普段の開発でネタになりそうなものがあったらメモしていきたい。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>mockmock.dev #86</title>
@@ -1192,96 +1302,6 @@
 
 &lt;ul&gt;
 &lt;li&gt;もうちょっとやって、いろいろ利用できるようにしていきたいです。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mockmock.dev #62</title>
-      <link>https://mockmock.github.io/post/no62/</link>
-      <pubDate>Sun, 29 May 2016 15:00:00 +0900</pubDate>
-      
-      <guid>https://mockmock.github.io/post/no62/</guid>
-      <description>
-
-&lt;h2 id=&#34;イベントページ&#34;&gt;イベントページ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mockmock.connpass.com/event/32693/&#34;&gt;mockmock.dev #62 - connpass&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者&#34;&gt;参加者&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kadoppe&#34;&gt;@kadoppe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kuy&#34;&gt;@kuy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bouzuya&#34;&gt;@bouzuya&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/HappyLuckyAkira&#34;&gt;@HappyLuckyAkira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kadoppe&#34;&gt;kadoppe&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.oreilly.co.jp/books/9784873115894/&#34;&gt;O&amp;rsquo;Reilly Japan - SQLアンチパターン&lt;/a&gt;を読み進めた。進捗 28%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;アンチパターンを示しながらも、アンチパターンを例外的に選択しないといけないような状況も合わせて紹介してくれている。&lt;/li&gt;
-&lt;li&gt;どんな状況にも適用できる魔法のような解は存在しなくて、何事もトレードオフを考慮しながら、その時々で最適だと思われる解を選択することが大事だと思った。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;kuy&#34;&gt;kuy&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-1&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;とりあえずredux-saga+Firebaseでanonymousログインと、投稿の保存ができた&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-1&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Firebaseお手軽でいいけど、JSのAPIがいけてない部分があった&lt;/li&gt;
-&lt;li&gt;Realtime DatabaseはRxJS系との相性いいのかな&lt;/li&gt;
-&lt;li&gt;Socket.IOのときもそうだったけど、もっとカジュアルにredux-sagaとコールバック処理をつなぐヘルパーが必要&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bouzuya&#34;&gt;bouzuya&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-2&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;RFC6570 に関しての覚書、に関しての blog を書いた &lt;a href=&#34;http://blog.bouzuya.net/2016/05/28/&#34;&gt;http://blog.bouzuya.net/2016/05/28/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;RFC6570 の仕様を満たしていない npm package への Pull Request (途中)
-
-&lt;ul&gt;
-&lt;li&gt;encodeURI&lt;/li&gt;
-&lt;li&gt;encodeURIComponent&lt;/li&gt;
-&lt;li&gt;escape&lt;/li&gt;
-&lt;li&gt;RFC6570 の unreserved / reserved 向けの encode の違いを整理&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-2&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;思った以上にクソコードで修正が難しい……&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;happyluckyakira&#34;&gt;HappyLuckyAkira&lt;/h2&gt;
-
-&lt;h3 id=&#34;やったこと-3&#34;&gt;やったこと&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Excel VBAでテスト駆動開発ができるようには、なった&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;感想-3&#34;&gt;感想&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Excel VBAは、慣れてなくてつらい&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
